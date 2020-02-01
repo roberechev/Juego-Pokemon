@@ -7,15 +7,22 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<table>
+	<table align="center">
 		<tr>
 			<td></td>
 			<td></td>
 			<td>
 				<%
-					String imagenP1 = "<img width=\"150px\" src=\"" + (String) request.getAttribute("ruta") + "\"/>";
+					String imagenP1 = "<img width=\"150px\" src=\"" + (String) request.getAttribute("pokemonSeleccionado")
+							+ "\"/>";
+					String hp1 = (String) request.getAttribute("pokemonSeleccionadoHP");
 					out.print(imagenP1);
 				%>
+				<p align="center">
+					<%
+						out.print(hp1 + "/" + hp1);
+					%>
+				</p>
 			</td>
 		</tr>
 		<tr>
@@ -23,8 +30,14 @@
 				<%
 					String imagenP2 = "<img width=\"150px\" src=\"" + (String) request.getAttribute("pokemonSeleccionado")
 							+ "\"/>";
-					out.print((String) request.getAttribute("pokemonSeleccionadoHP") + "\n" + imagenP2);
+					String hp = (String) request.getAttribute("pokemonSeleccionadoHP");
+					out.print(imagenP2);
 				%>
+				<p align="center">
+					<%
+						out.print(hp + "/" + hp);
+					%>
+				</p>
 			</td>
 			<td></td>
 			<td></td>
