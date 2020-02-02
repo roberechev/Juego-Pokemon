@@ -1,0 +1,9 @@
+ {"pokemons": [{"img":"jeje",
+"nombre":"pikachu",
+"hp":10,
+"ataque":190,
+"defensa":10,
+"velocidad":123
+}
+  ]
+}
