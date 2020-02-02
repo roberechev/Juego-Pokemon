@@ -1,0 +1,8228 @@
+ {
+	"pokemons": [
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/bulbasaur.png",
+			"nombre": "Bulbasaur",
+			"hp": 45,
+			"ataque": 49,
+			"defensa": 49,
+			"velocidad": 45
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/ivysaur.png",
+			"nombre": "Ivysaur",
+			"hp": 60,
+			"ataque": 62,
+			"defensa": 63,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/venusaur.png",
+			"nombre": "Venusaur",
+			"hp": 80,
+			"ataque": 82,
+			"defensa": 83,
+			"velocidad": 80
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/venusaur-mega.png",
+			"nombre": "Venusaur",
+			"hp": 80,
+			"ataque": 100,
+			"defensa": 123,
+			"velocidad": 80
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/charmander.png",
+			"nombre": "Charmander",
+			"hp": 39,
+			"ataque": 52,
+			"defensa": 43,
+			"velocidad": 65
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/charmeleon.png",
+			"nombre": "Charmeleon",
+			"hp": 58,
+			"ataque": 64,
+			"defensa": 58,
+			"velocidad": 80
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/charizard.png",
+			"nombre": "Charizard",
+			"hp": 78,
+			"ataque": 84,
+			"defensa": 78,
+			"velocidad": 100
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/charizard-mega-x.png",
+			"nombre": "Charizard",
+			"hp": 78,
+			"ataque": 130,
+			"defensa": 111,
+			"velocidad": 100
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/charizard-mega-y.png",
+			"nombre": "Charizard",
+			"hp": 78,
+			"ataque": 104,
+			"defensa": 78,
+			"velocidad": 100
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/squirtle.png",
+			"nombre": "Squirtle",
+			"hp": 44,
+			"ataque": 48,
+			"defensa": 65,
+			"velocidad": 43
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/wartortle.png",
+			"nombre": "Wartortle",
+			"hp": 59,
+			"ataque": 63,
+			"defensa": 80,
+			"velocidad": 58
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/blastoise.png",
+			"nombre": "Blastoise",
+			"hp": 79,
+			"ataque": 83,
+			"defensa": 100,
+			"velocidad": 78
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/blastoise-mega.png",
+			"nombre": "Blastoise",
+			"hp": 79,
+			"ataque": 103,
+			"defensa": 120,
+			"velocidad": 78
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/caterpie.png",
+			"nombre": "Caterpie",
+			"hp": 45,
+			"ataque": 30,
+			"defensa": 35,
+			"velocidad": 45
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/metapod.png",
+			"nombre": "Metapod",
+			"hp": 50,
+			"ataque": 20,
+			"defensa": 55,
+			"velocidad": 30
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/butterfree.png",
+			"nombre": "Butterfree",
+			"hp": 60,
+			"ataque": 45,
+			"defensa": 50,
+			"velocidad": 70
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/weedle.png",
+			"nombre": "Weedle",
+			"hp": 40,
+			"ataque": 35,
+			"defensa": 30,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/kakuna.png",
+			"nombre": "Kakuna",
+			"hp": 45,
+			"ataque": 25,
+			"defensa": 50,
+			"velocidad": 35
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/beedrill.png",
+			"nombre": "Beedrill",
+			"hp": 65,
+			"ataque": 90,
+			"defensa": 40,
+			"velocidad": 75
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/beedrill-mega.png",
+			"nombre": "Beedrill",
+			"hp": 65,
+			"ataque": 150,
+			"defensa": 40,
+			"velocidad": 145
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/pidgey.png",
+			"nombre": "Pidgey",
+			"hp": 40,
+			"ataque": 45,
+			"defensa": 40,
+			"velocidad": 56
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/pidgeotto.png",
+			"nombre": "Pidgeotto",
+			"hp": 63,
+			"ataque": 60,
+			"defensa": 55,
+			"velocidad": 71
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/pidgeot.png",
+			"nombre": "Pidgeot",
+			"hp": 83,
+			"ataque": 80,
+			"defensa": 75,
+			"velocidad": 101
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/pidgeot-mega.png",
+			"nombre": "Pidgeot",
+			"hp": 83,
+			"ataque": 80,
+			"defensa": 80,
+			"velocidad": 121
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/rattata.png",
+			"nombre": "Rattata",
+			"hp": 30,
+			"ataque": 56,
+			"defensa": 35,
+			"velocidad": 72
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/rattata-alolan.png",
+			"nombre": "Rattata",
+			"hp": 30,
+			"ataque": 56,
+			"defensa": 35,
+			"velocidad": 72
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/raticate.png",
+			"nombre": "Raticate",
+			"hp": 55,
+			"ataque": 81,
+			"defensa": 60,
+			"velocidad": 97
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/raticate-alolan.png",
+			"nombre": "Raticate",
+			"hp": 75,
+			"ataque": 71,
+			"defensa": 70,
+			"velocidad": 77
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/spearow.png",
+			"nombre": "Spearow",
+			"hp": 40,
+			"ataque": 60,
+			"defensa": 30,
+			"velocidad": 70
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/fearow.png",
+			"nombre": "Fearow",
+			"hp": 65,
+			"ataque": 90,
+			"defensa": 65,
+			"velocidad": 100
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/ekans.png",
+			"nombre": "Ekans",
+			"hp": 35,
+			"ataque": 60,
+			"defensa": 44,
+			"velocidad": 55
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/arbok.png",
+			"nombre": "Arbok",
+			"hp": 60,
+			"ataque": 95,
+			"defensa": 69,
+			"velocidad": 80
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/pikachu.png",
+			"nombre": "Pikachu",
+			"hp": 35,
+			"ataque": 55,
+			"defensa": 40,
+			"velocidad": 90
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/pikachu-lets-go.png",
+			"nombre": "Pikachu",
+			"hp": 45,
+			"ataque": 80,
+			"defensa": 50,
+			"velocidad": 120
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/raichu.png",
+			"nombre": "Raichu",
+			"hp": 60,
+			"ataque": 90,
+			"defensa": 55,
+			"velocidad": 110
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/raichu-alolan.png",
+			"nombre": "Raichu",
+			"hp": 60,
+			"ataque": 85,
+			"defensa": 50,
+			"velocidad": 110
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/sandshrew.png",
+			"nombre": "Sandshrew",
+			"hp": 50,
+			"ataque": 75,
+			"defensa": 85,
+			"velocidad": 40
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/sandshrew-alolan.png",
+			"nombre": "Sandshrew",
+			"hp": 50,
+			"ataque": 75,
+			"defensa": 90,
+			"velocidad": 40
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/sandslash.png",
+			"nombre": "Sandslash",
+			"hp": 75,
+			"ataque": 100,
+			"defensa": 110,
+			"velocidad": 65
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/sandslash-alolan.png",
+			"nombre": "Sandslash",
+			"hp": 75,
+			"ataque": 100,
+			"defensa": 120,
+			"velocidad": 65
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/nidoran-f.png",
+			"nombre": "Nidoran?",
+			"hp": 55,
+			"ataque": 47,
+			"defensa": 52,
+			"velocidad": 41
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/nidorina.png",
+			"nombre": "Nidorina",
+			"hp": 70,
+			"ataque": 62,
+			"defensa": 67,
+			"velocidad": 56
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/nidoqueen.png",
+			"nombre": "Nidoqueen",
+			"hp": 90,
+			"ataque": 92,
+			"defensa": 87,
+			"velocidad": 76
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/nidoran-m.png",
+			"nombre": "Nidoran?",
+			"hp": 46,
+			"ataque": 57,
+			"defensa": 40,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/nidorino.png",
+			"nombre": "Nidorino",
+			"hp": 61,
+			"ataque": 72,
+			"defensa": 57,
+			"velocidad": 65
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/nidoking.png",
+			"nombre": "Nidoking",
+			"hp": 81,
+			"ataque": 102,
+			"defensa": 77,
+			"velocidad": 85
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/clefairy.png",
+			"nombre": "Clefairy",
+			"hp": 70,
+			"ataque": 45,
+			"defensa": 48,
+			"velocidad": 35
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/clefable.png",
+			"nombre": "Clefable",
+			"hp": 95,
+			"ataque": 70,
+			"defensa": 73,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/vulpix.png",
+			"nombre": "Vulpix",
+			"hp": 38,
+			"ataque": 41,
+			"defensa": 40,
+			"velocidad": 65
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/vulpix-alolan.png",
+			"nombre": "Vulpix",
+			"hp": 38,
+			"ataque": 41,
+			"defensa": 40,
+			"velocidad": 65
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/ninetales.png",
+			"nombre": "Ninetales",
+			"hp": 73,
+			"ataque": 76,
+			"defensa": 75,
+			"velocidad": 100
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/ninetales-alolan.png",
+			"nombre": "Ninetales",
+			"hp": 73,
+			"ataque": 67,
+			"defensa": 75,
+			"velocidad": 109
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/jigglypuff.png",
+			"nombre": "Jigglypuff",
+			"hp": 115,
+			"ataque": 45,
+			"defensa": 20,
+			"velocidad": 20
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/wigglytuff.png",
+			"nombre": "Wigglytuff",
+			"hp": 140,
+			"ataque": 70,
+			"defensa": 45,
+			"velocidad": 45
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/zubat.png",
+			"nombre": "Zubat",
+			"hp": 40,
+			"ataque": 45,
+			"defensa": 35,
+			"velocidad": 55
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/golbat.png",
+			"nombre": "Golbat",
+			"hp": 75,
+			"ataque": 80,
+			"defensa": 70,
+			"velocidad": 90
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/oddish.png",
+			"nombre": "Oddish",
+			"hp": 45,
+			"ataque": 50,
+			"defensa": 55,
+			"velocidad": 30
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/gloom.png",
+			"nombre": "Gloom",
+			"hp": 60,
+			"ataque": 65,
+			"defensa": 70,
+			"velocidad": 40
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/vileplume.png",
+			"nombre": "Vileplume",
+			"hp": 75,
+			"ataque": 80,
+			"defensa": 85,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/paras.png",
+			"nombre": "Paras",
+			"hp": 35,
+			"ataque": 70,
+			"defensa": 55,
+			"velocidad": 25
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/parasect.png",
+			"nombre": "Parasect",
+			"hp": 60,
+			"ataque": 95,
+			"defensa": 80,
+			"velocidad": 30
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/venonat.png",
+			"nombre": "Venonat",
+			"hp": 60,
+			"ataque": 55,
+			"defensa": 50,
+			"velocidad": 45
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/venomoth.png",
+			"nombre": "Venomoth",
+			"hp": 70,
+			"ataque": 65,
+			"defensa": 60,
+			"velocidad": 90
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/diglett.png",
+			"nombre": "Diglett",
+			"hp": 10,
+			"ataque": 55,
+			"defensa": 25,
+			"velocidad": 95
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/diglett-alolan.png",
+			"nombre": "Diglett",
+			"hp": 10,
+			"ataque": 55,
+			"defensa": 30,
+			"velocidad": 90
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/dugtrio.png",
+			"nombre": "Dugtrio",
+			"hp": 35,
+			"ataque": 100,
+			"defensa": 50,
+			"velocidad": 120
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/dugtrio-alolan.png",
+			"nombre": "Dugtrio",
+			"hp": 35,
+			"ataque": 100,
+			"defensa": 60,
+			"velocidad": 110
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/meowth.png",
+			"nombre": "Meowth",
+			"hp": 40,
+			"ataque": 45,
+			"defensa": 35,
+			"velocidad": 90
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/meowth-alolan.png",
+			"nombre": "Meowth",
+			"hp": 40,
+			"ataque": 35,
+			"defensa": 35,
+			"velocidad": 90
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Meowth",
+			"hp": 50,
+			"ataque": 65,
+			"defensa": 55,
+			"velocidad": 40
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/persian.png",
+			"nombre": "Persian",
+			"hp": 65,
+			"ataque": 70,
+			"defensa": 60,
+			"velocidad": 115
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/persian-alolan.png",
+			"nombre": "Persian",
+			"hp": 65,
+			"ataque": 60,
+			"defensa": 60,
+			"velocidad": 115
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/psyduck.png",
+			"nombre": "Psyduck",
+			"hp": 50,
+			"ataque": 52,
+			"defensa": 48,
+			"velocidad": 55
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/golduck.png",
+			"nombre": "Golduck",
+			"hp": 80,
+			"ataque": 82,
+			"defensa": 78,
+			"velocidad": 85
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/mankey.png",
+			"nombre": "Mankey",
+			"hp": 40,
+			"ataque": 80,
+			"defensa": 35,
+			"velocidad": 70
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/primeape.png",
+			"nombre": "Primeape",
+			"hp": 65,
+			"ataque": 105,
+			"defensa": 60,
+			"velocidad": 95
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/growlithe.png",
+			"nombre": "Growlithe",
+			"hp": 55,
+			"ataque": 70,
+			"defensa": 45,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/arcanine.png",
+			"nombre": "Arcanine",
+			"hp": 90,
+			"ataque": 110,
+			"defensa": 80,
+			"velocidad": 95
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/poliwag.png",
+			"nombre": "Poliwag",
+			"hp": 40,
+			"ataque": 50,
+			"defensa": 40,
+			"velocidad": 90
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/poliwhirl.png",
+			"nombre": "Poliwhirl",
+			"hp": 65,
+			"ataque": 65,
+			"defensa": 65,
+			"velocidad": 90
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/poliwrath.png",
+			"nombre": "Poliwrath",
+			"hp": 90,
+			"ataque": 95,
+			"defensa": 95,
+			"velocidad": 70
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/abra.png",
+			"nombre": "Abra",
+			"hp": 25,
+			"ataque": 20,
+			"defensa": 15,
+			"velocidad": 90
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/kadabra.png",
+			"nombre": "Kadabra",
+			"hp": 40,
+			"ataque": 35,
+			"defensa": 30,
+			"velocidad": 105
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/alakazam.png",
+			"nombre": "Alakazam",
+			"hp": 55,
+			"ataque": 50,
+			"defensa": 45,
+			"velocidad": 120
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/alakazam-mega.png",
+			"nombre": "Alakazam",
+			"hp": 55,
+			"ataque": 50,
+			"defensa": 65,
+			"velocidad": 150
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/machop.png",
+			"nombre": "Machop",
+			"hp": 70,
+			"ataque": 80,
+			"defensa": 50,
+			"velocidad": 35
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/machoke.png",
+			"nombre": "Machoke",
+			"hp": 80,
+			"ataque": 100,
+			"defensa": 70,
+			"velocidad": 45
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/machamp.png",
+			"nombre": "Machamp",
+			"hp": 90,
+			"ataque": 130,
+			"defensa": 80,
+			"velocidad": 55
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/bellsprout.png",
+			"nombre": "Bellsprout",
+			"hp": 50,
+			"ataque": 75,
+			"defensa": 35,
+			"velocidad": 40
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/weepinbell.png",
+			"nombre": "Weepinbell",
+			"hp": 65,
+			"ataque": 90,
+			"defensa": 50,
+			"velocidad": 55
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/victreebel.png",
+			"nombre": "Victreebel",
+			"hp": 80,
+			"ataque": 105,
+			"defensa": 65,
+			"velocidad": 70
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/tentacool.png",
+			"nombre": "Tentacool",
+			"hp": 40,
+			"ataque": 40,
+			"defensa": 35,
+			"velocidad": 70
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/tentacruel.png",
+			"nombre": "Tentacruel",
+			"hp": 80,
+			"ataque": 70,
+			"defensa": 65,
+			"velocidad": 100
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/geodude.png",
+			"nombre": "Geodude",
+			"hp": 40,
+			"ataque": 80,
+			"defensa": 100,
+			"velocidad": 20
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/geodude-alolan.png",
+			"nombre": "Geodude",
+			"hp": 40,
+			"ataque": 80,
+			"defensa": 100,
+			"velocidad": 20
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/graveler.png",
+			"nombre": "Graveler",
+			"hp": 55,
+			"ataque": 95,
+			"defensa": 115,
+			"velocidad": 35
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/graveler-alolan.png",
+			"nombre": "Graveler",
+			"hp": 55,
+			"ataque": 95,
+			"defensa": 115,
+			"velocidad": 35
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/golem.png",
+			"nombre": "Golem",
+			"hp": 80,
+			"ataque": 120,
+			"defensa": 130,
+			"velocidad": 45
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/golem-alolan.png",
+			"nombre": "Golem",
+			"hp": 80,
+			"ataque": 120,
+			"defensa": 130,
+			"velocidad": 45
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/ponyta.png",
+			"nombre": "Ponyta",
+			"hp": 50,
+			"ataque": 85,
+			"defensa": 55,
+			"velocidad": 90
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Ponyta",
+			"hp": 50,
+			"ataque": 85,
+			"defensa": 55,
+			"velocidad": 90
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/rapidash.png",
+			"nombre": "Rapidash",
+			"hp": 65,
+			"ataque": 100,
+			"defensa": 70,
+			"velocidad": 105
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Rapidash",
+			"hp": 65,
+			"ataque": 100,
+			"defensa": 70,
+			"velocidad": 105
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/slowpoke.png",
+			"nombre": "Slowpoke",
+			"hp": 90,
+			"ataque": 65,
+			"defensa": 65,
+			"velocidad": 15
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/slowbro.png",
+			"nombre": "Slowbro",
+			"hp": 95,
+			"ataque": 75,
+			"defensa": 110,
+			"velocidad": 30
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/slowbro-mega.png",
+			"nombre": "Slowbro",
+			"hp": 95,
+			"ataque": 75,
+			"defensa": 180,
+			"velocidad": 30
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/magnemite.png",
+			"nombre": "Magnemite",
+			"hp": 25,
+			"ataque": 35,
+			"defensa": 70,
+			"velocidad": 45
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/magneton.png",
+			"nombre": "Magneton",
+			"hp": 50,
+			"ataque": 60,
+			"defensa": 95,
+			"velocidad": 70
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/farfetchd.png",
+			"nombre": "Farfetch'd",
+			"hp": 52,
+			"ataque": 90,
+			"defensa": 55,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Farfetch'd",
+			"hp": 52,
+			"ataque": 95,
+			"defensa": 55,
+			"velocidad": 55
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/doduo.png",
+			"nombre": "Doduo",
+			"hp": 35,
+			"ataque": 85,
+			"defensa": 45,
+			"velocidad": 75
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/dodrio.png",
+			"nombre": "Dodrio",
+			"hp": 60,
+			"ataque": 110,
+			"defensa": 70,
+			"velocidad": 110
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/seel.png",
+			"nombre": "Seel",
+			"hp": 65,
+			"ataque": 45,
+			"defensa": 55,
+			"velocidad": 45
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/dewgong.png",
+			"nombre": "Dewgong",
+			"hp": 90,
+			"ataque": 70,
+			"defensa": 80,
+			"velocidad": 70
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/grimer.png",
+			"nombre": "Grimer",
+			"hp": 80,
+			"ataque": 80,
+			"defensa": 50,
+			"velocidad": 25
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/grimer-alolan.png",
+			"nombre": "Grimer",
+			"hp": 80,
+			"ataque": 80,
+			"defensa": 50,
+			"velocidad": 25
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/muk.png",
+			"nombre": "Muk",
+			"hp": 105,
+			"ataque": 105,
+			"defensa": 75,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/muk-alolan.png",
+			"nombre": "Muk",
+			"hp": 105,
+			"ataque": 105,
+			"defensa": 75,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/shellder.png",
+			"nombre": "Shellder",
+			"hp": 30,
+			"ataque": 65,
+			"defensa": 100,
+			"velocidad": 40
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/cloyster.png",
+			"nombre": "Cloyster",
+			"hp": 50,
+			"ataque": 95,
+			"defensa": 180,
+			"velocidad": 70
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/gastly.png",
+			"nombre": "Gastly",
+			"hp": 30,
+			"ataque": 35,
+			"defensa": 30,
+			"velocidad": 80
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/haunter.png",
+			"nombre": "Haunter",
+			"hp": 45,
+			"ataque": 50,
+			"defensa": 45,
+			"velocidad": 95
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/gengar.png",
+			"nombre": "Gengar",
+			"hp": 60,
+			"ataque": 65,
+			"defensa": 60,
+			"velocidad": 110
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/gengar-mega.png",
+			"nombre": "Gengar",
+			"hp": 60,
+			"ataque": 65,
+			"defensa": 80,
+			"velocidad": 130
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/onix.png",
+			"nombre": "Onix",
+			"hp": 35,
+			"ataque": 45,
+			"defensa": 160,
+			"velocidad": 70
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/drowzee.png",
+			"nombre": "Drowzee",
+			"hp": 60,
+			"ataque": 48,
+			"defensa": 45,
+			"velocidad": 42
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/hypno.png",
+			"nombre": "Hypno",
+			"hp": 85,
+			"ataque": 73,
+			"defensa": 70,
+			"velocidad": 67
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/krabby.png",
+			"nombre": "Krabby",
+			"hp": 30,
+			"ataque": 105,
+			"defensa": 90,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/kingler.png",
+			"nombre": "Kingler",
+			"hp": 55,
+			"ataque": 130,
+			"defensa": 115,
+			"velocidad": 75
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/voltorb.png",
+			"nombre": "Voltorb",
+			"hp": 40,
+			"ataque": 30,
+			"defensa": 50,
+			"velocidad": 100
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/electrode.png",
+			"nombre": "Electrode",
+			"hp": 60,
+			"ataque": 50,
+			"defensa": 70,
+			"velocidad": 150
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/exeggcute.png",
+			"nombre": "Exeggcute",
+			"hp": 60,
+			"ataque": 40,
+			"defensa": 80,
+			"velocidad": 40
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/exeggutor.png",
+			"nombre": "Exeggutor",
+			"hp": 95,
+			"ataque": 95,
+			"defensa": 85,
+			"velocidad": 55
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/exeggutor-alolan.png",
+			"nombre": "Exeggutor",
+			"hp": 95,
+			"ataque": 105,
+			"defensa": 85,
+			"velocidad": 45
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/cubone.png",
+			"nombre": "Cubone",
+			"hp": 50,
+			"ataque": 50,
+			"defensa": 95,
+			"velocidad": 35
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/marowak.png",
+			"nombre": "Marowak",
+			"hp": 60,
+			"ataque": 80,
+			"defensa": 110,
+			"velocidad": 45
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/marowak-alolan.png",
+			"nombre": "Marowak",
+			"hp": 60,
+			"ataque": 80,
+			"defensa": 110,
+			"velocidad": 45
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/hitmonlee.png",
+			"nombre": "Hitmonlee",
+			"hp": 50,
+			"ataque": 120,
+			"defensa": 53,
+			"velocidad": 87
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/hitmonchan.png",
+			"nombre": "Hitmonchan",
+			"hp": 50,
+			"ataque": 105,
+			"defensa": 79,
+			"velocidad": 76
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/lickitung.png",
+			"nombre": "Lickitung",
+			"hp": 90,
+			"ataque": 55,
+			"defensa": 75,
+			"velocidad": 30
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/koffing.png",
+			"nombre": "Koffing",
+			"hp": 40,
+			"ataque": 65,
+			"defensa": 95,
+			"velocidad": 35
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/weezing.png",
+			"nombre": "Weezing",
+			"hp": 65,
+			"ataque": 90,
+			"defensa": 120,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Weezing",
+			"hp": 65,
+			"ataque": 90,
+			"defensa": 120,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/rhyhorn.png",
+			"nombre": "Rhyhorn",
+			"hp": 80,
+			"ataque": 85,
+			"defensa": 95,
+			"velocidad": 25
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/rhydon.png",
+			"nombre": "Rhydon",
+			"hp": 105,
+			"ataque": 130,
+			"defensa": 120,
+			"velocidad": 40
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/chansey.png",
+			"nombre": "Chansey",
+			"hp": 250,
+			"ataque": 5,
+			"defensa": 5,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/tangela.png",
+			"nombre": "Tangela",
+			"hp": 65,
+			"ataque": 55,
+			"defensa": 115,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/kangaskhan.png",
+			"nombre": "Kangaskhan",
+			"hp": 105,
+			"ataque": 95,
+			"defensa": 80,
+			"velocidad": 90
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/kangaskhan-mega.png",
+			"nombre": "Kangaskhan",
+			"hp": 105,
+			"ataque": 125,
+			"defensa": 100,
+			"velocidad": 100
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/horsea.png",
+			"nombre": "Horsea",
+			"hp": 30,
+			"ataque": 40,
+			"defensa": 70,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/seadra.png",
+			"nombre": "Seadra",
+			"hp": 55,
+			"ataque": 65,
+			"defensa": 95,
+			"velocidad": 85
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/goldeen.png",
+			"nombre": "Goldeen",
+			"hp": 45,
+			"ataque": 67,
+			"defensa": 60,
+			"velocidad": 63
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/seaking.png",
+			"nombre": "Seaking",
+			"hp": 80,
+			"ataque": 92,
+			"defensa": 65,
+			"velocidad": 68
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/staryu.png",
+			"nombre": "Staryu",
+			"hp": 30,
+			"ataque": 45,
+			"defensa": 55,
+			"velocidad": 85
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/starmie.png",
+			"nombre": "Starmie",
+			"hp": 60,
+			"ataque": 75,
+			"defensa": 85,
+			"velocidad": 115
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/mr-mime.png",
+			"nombre": "Mr. Mime",
+			"hp": 40,
+			"ataque": 45,
+			"defensa": 65,
+			"velocidad": 90
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Mr. Mime",
+			"hp": 50,
+			"ataque": 65,
+			"defensa": 65,
+			"velocidad": 100
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/scyther.png",
+			"nombre": "Scyther",
+			"hp": 70,
+			"ataque": 110,
+			"defensa": 80,
+			"velocidad": 105
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/jynx.png",
+			"nombre": "Jynx",
+			"hp": 65,
+			"ataque": 50,
+			"defensa": 35,
+			"velocidad": 95
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/electabuzz.png",
+			"nombre": "Electabuzz",
+			"hp": 65,
+			"ataque": 83,
+			"defensa": 57,
+			"velocidad": 105
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/magmar.png",
+			"nombre": "Magmar",
+			"hp": 65,
+			"ataque": 95,
+			"defensa": 57,
+			"velocidad": 93
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/pinsir.png",
+			"nombre": "Pinsir",
+			"hp": 65,
+			"ataque": 125,
+			"defensa": 100,
+			"velocidad": 85
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/pinsir-mega.png",
+			"nombre": "Pinsir",
+			"hp": 65,
+			"ataque": 155,
+			"defensa": 120,
+			"velocidad": 105
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/tauros.png",
+			"nombre": "Tauros",
+			"hp": 75,
+			"ataque": 100,
+			"defensa": 95,
+			"velocidad": 110
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/magikarp.png",
+			"nombre": "Magikarp",
+			"hp": 20,
+			"ataque": 10,
+			"defensa": 55,
+			"velocidad": 80
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/gyarados.png",
+			"nombre": "Gyarados",
+			"hp": 95,
+			"ataque": 125,
+			"defensa": 79,
+			"velocidad": 81
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/gyarados-mega.png",
+			"nombre": "Gyarados",
+			"hp": 95,
+			"ataque": 155,
+			"defensa": 109,
+			"velocidad": 81
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/lapras.png",
+			"nombre": "Lapras",
+			"hp": 130,
+			"ataque": 85,
+			"defensa": 80,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/ditto.png",
+			"nombre": "Ditto",
+			"hp": 48,
+			"ataque": 48,
+			"defensa": 48,
+			"velocidad": 48
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/eevee.png",
+			"nombre": "Eevee",
+			"hp": 55,
+			"ataque": 55,
+			"defensa": 50,
+			"velocidad": 55
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/eevee-lets-go.png",
+			"nombre": "Eevee",
+			"hp": 65,
+			"ataque": 75,
+			"defensa": 70,
+			"velocidad": 75
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/vaporeon.png",
+			"nombre": "Vaporeon",
+			"hp": 130,
+			"ataque": 65,
+			"defensa": 60,
+			"velocidad": 65
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/jolteon.png",
+			"nombre": "Jolteon",
+			"hp": 65,
+			"ataque": 65,
+			"defensa": 60,
+			"velocidad": 130
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/flareon.png",
+			"nombre": "Flareon",
+			"hp": 65,
+			"ataque": 130,
+			"defensa": 60,
+			"velocidad": 65
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/porygon.png",
+			"nombre": "Porygon",
+			"hp": 65,
+			"ataque": 60,
+			"defensa": 70,
+			"velocidad": 40
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/omanyte.png",
+			"nombre": "Omanyte",
+			"hp": 35,
+			"ataque": 40,
+			"defensa": 100,
+			"velocidad": 35
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/omastar.png",
+			"nombre": "Omastar",
+			"hp": 70,
+			"ataque": 60,
+			"defensa": 125,
+			"velocidad": 55
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/kabuto.png",
+			"nombre": "Kabuto",
+			"hp": 30,
+			"ataque": 80,
+			"defensa": 90,
+			"velocidad": 55
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/kabutops.png",
+			"nombre": "Kabutops",
+			"hp": 60,
+			"ataque": 115,
+			"defensa": 105,
+			"velocidad": 80
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/aerodactyl.png",
+			"nombre": "Aerodactyl",
+			"hp": 80,
+			"ataque": 105,
+			"defensa": 65,
+			"velocidad": 130
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/aerodactyl-mega.png",
+			"nombre": "Aerodactyl",
+			"hp": 80,
+			"ataque": 135,
+			"defensa": 85,
+			"velocidad": 150
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/snorlax.png",
+			"nombre": "Snorlax",
+			"hp": 160,
+			"ataque": 110,
+			"defensa": 65,
+			"velocidad": 30
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/articuno.png",
+			"nombre": "Articuno",
+			"hp": 90,
+			"ataque": 85,
+			"defensa": 100,
+			"velocidad": 85
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/zapdos.png",
+			"nombre": "Zapdos",
+			"hp": 90,
+			"ataque": 90,
+			"defensa": 85,
+			"velocidad": 100
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/moltres.png",
+			"nombre": "Moltres",
+			"hp": 90,
+			"ataque": 100,
+			"defensa": 90,
+			"velocidad": 90
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/dratini.png",
+			"nombre": "Dratini",
+			"hp": 41,
+			"ataque": 64,
+			"defensa": 45,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/dragonair.png",
+			"nombre": "Dragonair",
+			"hp": 61,
+			"ataque": 84,
+			"defensa": 65,
+			"velocidad": 70
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/dragonite.png",
+			"nombre": "Dragonite",
+			"hp": 91,
+			"ataque": 134,
+			"defensa": 95,
+			"velocidad": 80
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/mewtwo.png",
+			"nombre": "Mewtwo",
+			"hp": 106,
+			"ataque": 110,
+			"defensa": 90,
+			"velocidad": 130
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/mewtwo-mega-x.png",
+			"nombre": "Mewtwo",
+			"hp": 106,
+			"ataque": 190,
+			"defensa": 100,
+			"velocidad": 130
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/mewtwo-mega-y.png",
+			"nombre": "Mewtwo",
+			"hp": 106,
+			"ataque": 150,
+			"defensa": 70,
+			"velocidad": 140
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/mew.png",
+			"nombre": "Mew",
+			"hp": 100,
+			"ataque": 100,
+			"defensa": 100,
+			"velocidad": 100
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/chikorita.png",
+			"nombre": "Chikorita",
+			"hp": 45,
+			"ataque": 49,
+			"defensa": 65,
+			"velocidad": 45
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/bayleef.png",
+			"nombre": "Bayleef",
+			"hp": 60,
+			"ataque": 62,
+			"defensa": 80,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/meganium.png",
+			"nombre": "Meganium",
+			"hp": 80,
+			"ataque": 82,
+			"defensa": 100,
+			"velocidad": 80
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/cyndaquil.png",
+			"nombre": "Cyndaquil",
+			"hp": 39,
+			"ataque": 52,
+			"defensa": 43,
+			"velocidad": 65
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/quilava.png",
+			"nombre": "Quilava",
+			"hp": 58,
+			"ataque": 64,
+			"defensa": 58,
+			"velocidad": 80
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/typhlosion.png",
+			"nombre": "Typhlosion",
+			"hp": 78,
+			"ataque": 84,
+			"defensa": 78,
+			"velocidad": 100
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/totodile.png",
+			"nombre": "Totodile",
+			"hp": 50,
+			"ataque": 65,
+			"defensa": 64,
+			"velocidad": 43
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/croconaw.png",
+			"nombre": "Croconaw",
+			"hp": 65,
+			"ataque": 80,
+			"defensa": 80,
+			"velocidad": 58
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/feraligatr.png",
+			"nombre": "Feraligatr",
+			"hp": 85,
+			"ataque": 105,
+			"defensa": 100,
+			"velocidad": 78
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/sentret.png",
+			"nombre": "Sentret",
+			"hp": 35,
+			"ataque": 46,
+			"defensa": 34,
+			"velocidad": 20
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/furret.png",
+			"nombre": "Furret",
+			"hp": 85,
+			"ataque": 76,
+			"defensa": 64,
+			"velocidad": 90
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/hoothoot.png",
+			"nombre": "Hoothoot",
+			"hp": 60,
+			"ataque": 30,
+			"defensa": 30,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/noctowl.png",
+			"nombre": "Noctowl",
+			"hp": 100,
+			"ataque": 50,
+			"defensa": 50,
+			"velocidad": 70
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/ledyba.png",
+			"nombre": "Ledyba",
+			"hp": 40,
+			"ataque": 20,
+			"defensa": 30,
+			"velocidad": 55
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/ledian.png",
+			"nombre": "Ledian",
+			"hp": 55,
+			"ataque": 35,
+			"defensa": 50,
+			"velocidad": 85
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/spinarak.png",
+			"nombre": "Spinarak",
+			"hp": 40,
+			"ataque": 60,
+			"defensa": 40,
+			"velocidad": 30
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/ariados.png",
+			"nombre": "Ariados",
+			"hp": 70,
+			"ataque": 90,
+			"defensa": 70,
+			"velocidad": 40
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/crobat.png",
+			"nombre": "Crobat",
+			"hp": 85,
+			"ataque": 90,
+			"defensa": 80,
+			"velocidad": 130
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/chinchou.png",
+			"nombre": "Chinchou",
+			"hp": 75,
+			"ataque": 38,
+			"defensa": 38,
+			"velocidad": 67
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/lanturn.png",
+			"nombre": "Lanturn",
+			"hp": 125,
+			"ataque": 58,
+			"defensa": 58,
+			"velocidad": 67
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/pichu.png",
+			"nombre": "Pichu",
+			"hp": 20,
+			"ataque": 40,
+			"defensa": 15,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/cleffa.png",
+			"nombre": "Cleffa",
+			"hp": 50,
+			"ataque": 25,
+			"defensa": 28,
+			"velocidad": 15
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/igglybuff.png",
+			"nombre": "Igglybuff",
+			"hp": 90,
+			"ataque": 30,
+			"defensa": 15,
+			"velocidad": 15
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/togepi.png",
+			"nombre": "Togepi",
+			"hp": 35,
+			"ataque": 20,
+			"defensa": 65,
+			"velocidad": 20
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/togetic.png",
+			"nombre": "Togetic",
+			"hp": 55,
+			"ataque": 40,
+			"defensa": 85,
+			"velocidad": 40
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/natu.png",
+			"nombre": "Natu",
+			"hp": 40,
+			"ataque": 50,
+			"defensa": 45,
+			"velocidad": 70
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/xatu.png",
+			"nombre": "Xatu",
+			"hp": 65,
+			"ataque": 75,
+			"defensa": 70,
+			"velocidad": 95
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/mareep.png",
+			"nombre": "Mareep",
+			"hp": 55,
+			"ataque": 40,
+			"defensa": 40,
+			"velocidad": 35
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/flaaffy.png",
+			"nombre": "Flaaffy",
+			"hp": 70,
+			"ataque": 55,
+			"defensa": 55,
+			"velocidad": 45
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/ampharos.png",
+			"nombre": "Ampharos",
+			"hp": 90,
+			"ataque": 75,
+			"defensa": 85,
+			"velocidad": 55
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/ampharos-mega.png",
+			"nombre": "Ampharos",
+			"hp": 90,
+			"ataque": 95,
+			"defensa": 105,
+			"velocidad": 45
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/bellossom.png",
+			"nombre": "Bellossom",
+			"hp": 75,
+			"ataque": 80,
+			"defensa": 95,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/marill.png",
+			"nombre": "Marill",
+			"hp": 70,
+			"ataque": 20,
+			"defensa": 50,
+			"velocidad": 40
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/azumarill.png",
+			"nombre": "Azumarill",
+			"hp": 100,
+			"ataque": 50,
+			"defensa": 80,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/sudowoodo.png",
+			"nombre": "Sudowoodo",
+			"hp": 70,
+			"ataque": 100,
+			"defensa": 115,
+			"velocidad": 30
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/politoed.png",
+			"nombre": "Politoed",
+			"hp": 90,
+			"ataque": 75,
+			"defensa": 75,
+			"velocidad": 70
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/hoppip.png",
+			"nombre": "Hoppip",
+			"hp": 35,
+			"ataque": 35,
+			"defensa": 40,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/skiploom.png",
+			"nombre": "Skiploom",
+			"hp": 55,
+			"ataque": 45,
+			"defensa": 50,
+			"velocidad": 80
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/jumpluff.png",
+			"nombre": "Jumpluff",
+			"hp": 75,
+			"ataque": 55,
+			"defensa": 70,
+			"velocidad": 110
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/aipom.png",
+			"nombre": "Aipom",
+			"hp": 55,
+			"ataque": 70,
+			"defensa": 55,
+			"velocidad": 85
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/sunkern.png",
+			"nombre": "Sunkern",
+			"hp": 30,
+			"ataque": 30,
+			"defensa": 30,
+			"velocidad": 30
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/sunflora.png",
+			"nombre": "Sunflora",
+			"hp": 75,
+			"ataque": 75,
+			"defensa": 55,
+			"velocidad": 30
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/yanma.png",
+			"nombre": "Yanma",
+			"hp": 65,
+			"ataque": 65,
+			"defensa": 45,
+			"velocidad": 95
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/wooper.png",
+			"nombre": "Wooper",
+			"hp": 55,
+			"ataque": 45,
+			"defensa": 45,
+			"velocidad": 15
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/quagsire.png",
+			"nombre": "Quagsire",
+			"hp": 95,
+			"ataque": 85,
+			"defensa": 85,
+			"velocidad": 35
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/espeon.png",
+			"nombre": "Espeon",
+			"hp": 65,
+			"ataque": 65,
+			"defensa": 60,
+			"velocidad": 110
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/umbreon.png",
+			"nombre": "Umbreon",
+			"hp": 95,
+			"ataque": 65,
+			"defensa": 110,
+			"velocidad": 65
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/murkrow.png",
+			"nombre": "Murkrow",
+			"hp": 60,
+			"ataque": 85,
+			"defensa": 42,
+			"velocidad": 91
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/slowking.png",
+			"nombre": "Slowking",
+			"hp": 95,
+			"ataque": 75,
+			"defensa": 80,
+			"velocidad": 30
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/misdreavus.png",
+			"nombre": "Misdreavus",
+			"hp": 60,
+			"ataque": 60,
+			"defensa": 60,
+			"velocidad": 85
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/unown.png",
+			"nombre": "Unown",
+			"hp": 48,
+			"ataque": 72,
+			"defensa": 48,
+			"velocidad": 48
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/wobbuffet.png",
+			"nombre": "Wobbuffet",
+			"hp": 190,
+			"ataque": 33,
+			"defensa": 58,
+			"velocidad": 33
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/girafarig.png",
+			"nombre": "Girafarig",
+			"hp": 70,
+			"ataque": 80,
+			"defensa": 65,
+			"velocidad": 85
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/pineco.png",
+			"nombre": "Pineco",
+			"hp": 50,
+			"ataque": 65,
+			"defensa": 90,
+			"velocidad": 15
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/forretress.png",
+			"nombre": "Forretress",
+			"hp": 75,
+			"ataque": 90,
+			"defensa": 140,
+			"velocidad": 40
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/dunsparce.png",
+			"nombre": "Dunsparce",
+			"hp": 100,
+			"ataque": 70,
+			"defensa": 70,
+			"velocidad": 45
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/gligar.png",
+			"nombre": "Gligar",
+			"hp": 65,
+			"ataque": 75,
+			"defensa": 105,
+			"velocidad": 85
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/steelix.png",
+			"nombre": "Steelix",
+			"hp": 75,
+			"ataque": 85,
+			"defensa": 200,
+			"velocidad": 30
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/steelix-mega.png",
+			"nombre": "Steelix",
+			"hp": 75,
+			"ataque": 125,
+			"defensa": 230,
+			"velocidad": 30
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/snubbull.png",
+			"nombre": "Snubbull",
+			"hp": 60,
+			"ataque": 80,
+			"defensa": 50,
+			"velocidad": 30
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/granbull.png",
+			"nombre": "Granbull",
+			"hp": 90,
+			"ataque": 120,
+			"defensa": 75,
+			"velocidad": 45
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/qwilfish.png",
+			"nombre": "Qwilfish",
+			"hp": 65,
+			"ataque": 95,
+			"defensa": 85,
+			"velocidad": 85
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/scizor.png",
+			"nombre": "Scizor",
+			"hp": 70,
+			"ataque": 130,
+			"defensa": 100,
+			"velocidad": 65
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/scizor-mega.png",
+			"nombre": "Scizor",
+			"hp": 70,
+			"ataque": 150,
+			"defensa": 140,
+			"velocidad": 75
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/shuckle.png",
+			"nombre": "Shuckle",
+			"hp": 20,
+			"ataque": 10,
+			"defensa": 230,
+			"velocidad": 5
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/heracross.png",
+			"nombre": "Heracross",
+			"hp": 80,
+			"ataque": 125,
+			"defensa": 75,
+			"velocidad": 85
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/heracross-mega.png",
+			"nombre": "Heracross",
+			"hp": 80,
+			"ataque": 185,
+			"defensa": 115,
+			"velocidad": 75
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/sneasel.png",
+			"nombre": "Sneasel",
+			"hp": 55,
+			"ataque": 95,
+			"defensa": 55,
+			"velocidad": 115
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/teddiursa.png",
+			"nombre": "Teddiursa",
+			"hp": 60,
+			"ataque": 80,
+			"defensa": 50,
+			"velocidad": 40
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/ursaring.png",
+			"nombre": "Ursaring",
+			"hp": 90,
+			"ataque": 130,
+			"defensa": 75,
+			"velocidad": 55
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/slugma.png",
+			"nombre": "Slugma",
+			"hp": 40,
+			"ataque": 40,
+			"defensa": 40,
+			"velocidad": 20
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/magcargo.png",
+			"nombre": "Magcargo",
+			"hp": 60,
+			"ataque": 50,
+			"defensa": 120,
+			"velocidad": 30
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/swinub.png",
+			"nombre": "Swinub",
+			"hp": 50,
+			"ataque": 50,
+			"defensa": 40,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/piloswine.png",
+			"nombre": "Piloswine",
+			"hp": 100,
+			"ataque": 100,
+			"defensa": 80,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/corsola.png",
+			"nombre": "Corsola",
+			"hp": 65,
+			"ataque": 55,
+			"defensa": 95,
+			"velocidad": 35
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Corsola",
+			"hp": 60,
+			"ataque": 55,
+			"defensa": 100,
+			"velocidad": 30
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/remoraid.png",
+			"nombre": "Remoraid",
+			"hp": 35,
+			"ataque": 65,
+			"defensa": 35,
+			"velocidad": 65
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/octillery.png",
+			"nombre": "Octillery",
+			"hp": 75,
+			"ataque": 105,
+			"defensa": 75,
+			"velocidad": 45
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/delibird.png",
+			"nombre": "Delibird",
+			"hp": 45,
+			"ataque": 55,
+			"defensa": 45,
+			"velocidad": 75
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/mantine.png",
+			"nombre": "Mantine",
+			"hp": 85,
+			"ataque": 40,
+			"defensa": 70,
+			"velocidad": 70
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/skarmory.png",
+			"nombre": "Skarmory",
+			"hp": 65,
+			"ataque": 80,
+			"defensa": 140,
+			"velocidad": 70
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/houndour.png",
+			"nombre": "Houndour",
+			"hp": 45,
+			"ataque": 60,
+			"defensa": 30,
+			"velocidad": 65
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/houndoom.png",
+			"nombre": "Houndoom",
+			"hp": 75,
+			"ataque": 90,
+			"defensa": 50,
+			"velocidad": 95
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/houndoom-mega.png",
+			"nombre": "Houndoom",
+			"hp": 75,
+			"ataque": 90,
+			"defensa": 90,
+			"velocidad": 115
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/kingdra.png",
+			"nombre": "Kingdra",
+			"hp": 75,
+			"ataque": 95,
+			"defensa": 95,
+			"velocidad": 85
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/phanpy.png",
+			"nombre": "Phanpy",
+			"hp": 90,
+			"ataque": 60,
+			"defensa": 60,
+			"velocidad": 40
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/donphan.png",
+			"nombre": "Donphan",
+			"hp": 90,
+			"ataque": 120,
+			"defensa": 120,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/porygon2.png",
+			"nombre": "Porygon2",
+			"hp": 85,
+			"ataque": 80,
+			"defensa": 90,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/stantler.png",
+			"nombre": "Stantler",
+			"hp": 73,
+			"ataque": 95,
+			"defensa": 62,
+			"velocidad": 85
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/smeargle.png",
+			"nombre": "Smeargle",
+			"hp": 55,
+			"ataque": 20,
+			"defensa": 35,
+			"velocidad": 75
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/tyrogue.png",
+			"nombre": "Tyrogue",
+			"hp": 35,
+			"ataque": 35,
+			"defensa": 35,
+			"velocidad": 35
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/hitmontop.png",
+			"nombre": "Hitmontop",
+			"hp": 50,
+			"ataque": 95,
+			"defensa": 95,
+			"velocidad": 70
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/smoochum.png",
+			"nombre": "Smoochum",
+			"hp": 45,
+			"ataque": 30,
+			"defensa": 15,
+			"velocidad": 65
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/elekid.png",
+			"nombre": "Elekid",
+			"hp": 45,
+			"ataque": 63,
+			"defensa": 37,
+			"velocidad": 95
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/magby.png",
+			"nombre": "Magby",
+			"hp": 45,
+			"ataque": 75,
+			"defensa": 37,
+			"velocidad": 83
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/miltank.png",
+			"nombre": "Miltank",
+			"hp": 95,
+			"ataque": 80,
+			"defensa": 105,
+			"velocidad": 100
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/blissey.png",
+			"nombre": "Blissey",
+			"hp": 255,
+			"ataque": 10,
+			"defensa": 10,
+			"velocidad": 55
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/raikou.png",
+			"nombre": "Raikou",
+			"hp": 90,
+			"ataque": 85,
+			"defensa": 75,
+			"velocidad": 115
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/entei.png",
+			"nombre": "Entei",
+			"hp": 115,
+			"ataque": 115,
+			"defensa": 85,
+			"velocidad": 100
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/suicune.png",
+			"nombre": "Suicune",
+			"hp": 100,
+			"ataque": 75,
+			"defensa": 115,
+			"velocidad": 85
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/larvitar.png",
+			"nombre": "Larvitar",
+			"hp": 50,
+			"ataque": 64,
+			"defensa": 50,
+			"velocidad": 41
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/pupitar.png",
+			"nombre": "Pupitar",
+			"hp": 70,
+			"ataque": 84,
+			"defensa": 70,
+			"velocidad": 51
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/tyranitar.png",
+			"nombre": "Tyranitar",
+			"hp": 100,
+			"ataque": 134,
+			"defensa": 110,
+			"velocidad": 61
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/tyranitar-mega.png",
+			"nombre": "Tyranitar",
+			"hp": 100,
+			"ataque": 164,
+			"defensa": 150,
+			"velocidad": 71
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/lugia.png",
+			"nombre": "Lugia",
+			"hp": 106,
+			"ataque": 90,
+			"defensa": 130,
+			"velocidad": 110
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/ho-oh.png",
+			"nombre": "Ho-oh",
+			"hp": 106,
+			"ataque": 130,
+			"defensa": 90,
+			"velocidad": 90
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/celebi.png",
+			"nombre": "Celebi",
+			"hp": 100,
+			"ataque": 100,
+			"defensa": 100,
+			"velocidad": 100
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/treecko.png",
+			"nombre": "Treecko",
+			"hp": 40,
+			"ataque": 45,
+			"defensa": 35,
+			"velocidad": 70
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/grovyle.png",
+			"nombre": "Grovyle",
+			"hp": 50,
+			"ataque": 65,
+			"defensa": 45,
+			"velocidad": 95
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/sceptile.png",
+			"nombre": "Sceptile",
+			"hp": 70,
+			"ataque": 85,
+			"defensa": 65,
+			"velocidad": 120
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/sceptile-mega.png",
+			"nombre": "Sceptile",
+			"hp": 70,
+			"ataque": 110,
+			"defensa": 75,
+			"velocidad": 145
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/torchic.png",
+			"nombre": "Torchic",
+			"hp": 45,
+			"ataque": 60,
+			"defensa": 40,
+			"velocidad": 45
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/combusken.png",
+			"nombre": "Combusken",
+			"hp": 60,
+			"ataque": 85,
+			"defensa": 60,
+			"velocidad": 55
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/blaziken.png",
+			"nombre": "Blaziken",
+			"hp": 80,
+			"ataque": 120,
+			"defensa": 70,
+			"velocidad": 80
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/blaziken-mega.png",
+			"nombre": "Blaziken",
+			"hp": 80,
+			"ataque": 160,
+			"defensa": 80,
+			"velocidad": 100
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/mudkip.png",
+			"nombre": "Mudkip",
+			"hp": 50,
+			"ataque": 70,
+			"defensa": 50,
+			"velocidad": 40
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/marshtomp.png",
+			"nombre": "Marshtomp",
+			"hp": 70,
+			"ataque": 85,
+			"defensa": 70,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/swampert.png",
+			"nombre": "Swampert",
+			"hp": 100,
+			"ataque": 110,
+			"defensa": 90,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/swampert-mega.png",
+			"nombre": "Swampert",
+			"hp": 100,
+			"ataque": 150,
+			"defensa": 110,
+			"velocidad": 70
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/poochyena.png",
+			"nombre": "Poochyena",
+			"hp": 35,
+			"ataque": 55,
+			"defensa": 35,
+			"velocidad": 35
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/mightyena.png",
+			"nombre": "Mightyena",
+			"hp": 70,
+			"ataque": 90,
+			"defensa": 70,
+			"velocidad": 70
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/zigzagoon.png",
+			"nombre": "Zigzagoon",
+			"hp": 38,
+			"ataque": 30,
+			"defensa": 41,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Zigzagoon",
+			"hp": 38,
+			"ataque": 30,
+			"defensa": 41,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/linoone.png",
+			"nombre": "Linoone",
+			"hp": 78,
+			"ataque": 70,
+			"defensa": 61,
+			"velocidad": 100
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Linoone",
+			"hp": 78,
+			"ataque": 70,
+			"defensa": 61,
+			"velocidad": 100
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/wurmple.png",
+			"nombre": "Wurmple",
+			"hp": 45,
+			"ataque": 45,
+			"defensa": 35,
+			"velocidad": 20
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/silcoon.png",
+			"nombre": "Silcoon",
+			"hp": 50,
+			"ataque": 35,
+			"defensa": 55,
+			"velocidad": 15
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/beautifly.png",
+			"nombre": "Beautifly",
+			"hp": 60,
+			"ataque": 70,
+			"defensa": 50,
+			"velocidad": 65
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/cascoon.png",
+			"nombre": "Cascoon",
+			"hp": 50,
+			"ataque": 35,
+			"defensa": 55,
+			"velocidad": 15
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/dustox.png",
+			"nombre": "Dustox",
+			"hp": 60,
+			"ataque": 50,
+			"defensa": 70,
+			"velocidad": 65
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/lotad.png",
+			"nombre": "Lotad",
+			"hp": 40,
+			"ataque": 30,
+			"defensa": 30,
+			"velocidad": 30
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/lombre.png",
+			"nombre": "Lombre",
+			"hp": 60,
+			"ataque": 50,
+			"defensa": 50,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/ludicolo.png",
+			"nombre": "Ludicolo",
+			"hp": 80,
+			"ataque": 70,
+			"defensa": 70,
+			"velocidad": 70
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/seedot.png",
+			"nombre": "Seedot",
+			"hp": 40,
+			"ataque": 40,
+			"defensa": 50,
+			"velocidad": 30
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/nuzleaf.png",
+			"nombre": "Nuzleaf",
+			"hp": 70,
+			"ataque": 70,
+			"defensa": 40,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/shiftry.png",
+			"nombre": "Shiftry",
+			"hp": 90,
+			"ataque": 100,
+			"defensa": 60,
+			"velocidad": 80
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/taillow.png",
+			"nombre": "Taillow",
+			"hp": 40,
+			"ataque": 55,
+			"defensa": 30,
+			"velocidad": 85
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/swellow.png",
+			"nombre": "Swellow",
+			"hp": 60,
+			"ataque": 85,
+			"defensa": 60,
+			"velocidad": 125
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/wingull.png",
+			"nombre": "Wingull",
+			"hp": 40,
+			"ataque": 30,
+			"defensa": 30,
+			"velocidad": 85
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/pelipper.png",
+			"nombre": "Pelipper",
+			"hp": 60,
+			"ataque": 50,
+			"defensa": 100,
+			"velocidad": 65
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/ralts.png",
+			"nombre": "Ralts",
+			"hp": 28,
+			"ataque": 25,
+			"defensa": 25,
+			"velocidad": 40
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/kirlia.png",
+			"nombre": "Kirlia",
+			"hp": 38,
+			"ataque": 35,
+			"defensa": 35,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/gardevoir.png",
+			"nombre": "Gardevoir",
+			"hp": 68,
+			"ataque": 65,
+			"defensa": 65,
+			"velocidad": 80
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/gardevoir-mega.png",
+			"nombre": "Gardevoir",
+			"hp": 68,
+			"ataque": 85,
+			"defensa": 65,
+			"velocidad": 100
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/surskit.png",
+			"nombre": "Surskit",
+			"hp": 40,
+			"ataque": 30,
+			"defensa": 32,
+			"velocidad": 65
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/masquerain.png",
+			"nombre": "Masquerain",
+			"hp": 70,
+			"ataque": 60,
+			"defensa": 62,
+			"velocidad": 80
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/shroomish.png",
+			"nombre": "Shroomish",
+			"hp": 60,
+			"ataque": 40,
+			"defensa": 60,
+			"velocidad": 35
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/breloom.png",
+			"nombre": "Breloom",
+			"hp": 60,
+			"ataque": 130,
+			"defensa": 80,
+			"velocidad": 70
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/slakoth.png",
+			"nombre": "Slakoth",
+			"hp": 60,
+			"ataque": 60,
+			"defensa": 60,
+			"velocidad": 30
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/vigoroth.png",
+			"nombre": "Vigoroth",
+			"hp": 80,
+			"ataque": 80,
+			"defensa": 80,
+			"velocidad": 90
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/slaking.png",
+			"nombre": "Slaking",
+			"hp": 150,
+			"ataque": 160,
+			"defensa": 100,
+			"velocidad": 100
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/nincada.png",
+			"nombre": "Nincada",
+			"hp": 31,
+			"ataque": 45,
+			"defensa": 90,
+			"velocidad": 40
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/ninjask.png",
+			"nombre": "Ninjask",
+			"hp": 61,
+			"ataque": 90,
+			"defensa": 45,
+			"velocidad": 160
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/shedinja.png",
+			"nombre": "Shedinja",
+			"hp": 1,
+			"ataque": 90,
+			"defensa": 45,
+			"velocidad": 40
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/whismur.png",
+			"nombre": "Whismur",
+			"hp": 64,
+			"ataque": 51,
+			"defensa": 23,
+			"velocidad": 28
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/loudred.png",
+			"nombre": "Loudred",
+			"hp": 84,
+			"ataque": 71,
+			"defensa": 43,
+			"velocidad": 48
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/exploud.png",
+			"nombre": "Exploud",
+			"hp": 104,
+			"ataque": 91,
+			"defensa": 63,
+			"velocidad": 68
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/makuhita.png",
+			"nombre": "Makuhita",
+			"hp": 72,
+			"ataque": 60,
+			"defensa": 30,
+			"velocidad": 25
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/hariyama.png",
+			"nombre": "Hariyama",
+			"hp": 144,
+			"ataque": 120,
+			"defensa": 60,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/azurill.png",
+			"nombre": "Azurill",
+			"hp": 50,
+			"ataque": 20,
+			"defensa": 40,
+			"velocidad": 20
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/nosepass.png",
+			"nombre": "Nosepass",
+			"hp": 30,
+			"ataque": 45,
+			"defensa": 135,
+			"velocidad": 30
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/skitty.png",
+			"nombre": "Skitty",
+			"hp": 50,
+			"ataque": 45,
+			"defensa": 45,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/delcatty.png",
+			"nombre": "Delcatty",
+			"hp": 70,
+			"ataque": 65,
+			"defensa": 65,
+			"velocidad": 90
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/sableye.png",
+			"nombre": "Sableye",
+			"hp": 50,
+			"ataque": 75,
+			"defensa": 75,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/sableye-mega.png",
+			"nombre": "Sableye",
+			"hp": 50,
+			"ataque": 85,
+			"defensa": 125,
+			"velocidad": 20
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/mawile.png",
+			"nombre": "Mawile",
+			"hp": 50,
+			"ataque": 85,
+			"defensa": 85,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/mawile-mega.png",
+			"nombre": "Mawile",
+			"hp": 50,
+			"ataque": 105,
+			"defensa": 125,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/aron.png",
+			"nombre": "Aron",
+			"hp": 50,
+			"ataque": 70,
+			"defensa": 100,
+			"velocidad": 30
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/lairon.png",
+			"nombre": "Lairon",
+			"hp": 60,
+			"ataque": 90,
+			"defensa": 140,
+			"velocidad": 40
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/aggron.png",
+			"nombre": "Aggron",
+			"hp": 70,
+			"ataque": 110,
+			"defensa": 180,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/aggron-mega.png",
+			"nombre": "Aggron",
+			"hp": 70,
+			"ataque": 140,
+			"defensa": 230,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/meditite.png",
+			"nombre": "Meditite",
+			"hp": 30,
+			"ataque": 40,
+			"defensa": 55,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/medicham.png",
+			"nombre": "Medicham",
+			"hp": 60,
+			"ataque": 60,
+			"defensa": 75,
+			"velocidad": 80
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/medicham-mega.png",
+			"nombre": "Medicham",
+			"hp": 60,
+			"ataque": 100,
+			"defensa": 85,
+			"velocidad": 100
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/electrike.png",
+			"nombre": "Electrike",
+			"hp": 40,
+			"ataque": 45,
+			"defensa": 40,
+			"velocidad": 65
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/manectric.png",
+			"nombre": "Manectric",
+			"hp": 70,
+			"ataque": 75,
+			"defensa": 60,
+			"velocidad": 105
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/manectric-mega.png",
+			"nombre": "Manectric",
+			"hp": 70,
+			"ataque": 75,
+			"defensa": 80,
+			"velocidad": 135
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/plusle.png",
+			"nombre": "Plusle",
+			"hp": 60,
+			"ataque": 50,
+			"defensa": 40,
+			"velocidad": 95
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/minun.png",
+			"nombre": "Minun",
+			"hp": 60,
+			"ataque": 40,
+			"defensa": 50,
+			"velocidad": 95
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/volbeat.png",
+			"nombre": "Volbeat",
+			"hp": 65,
+			"ataque": 73,
+			"defensa": 75,
+			"velocidad": 85
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/illumise.png",
+			"nombre": "Illumise",
+			"hp": 65,
+			"ataque": 47,
+			"defensa": 75,
+			"velocidad": 85
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/roselia.png",
+			"nombre": "Roselia",
+			"hp": 50,
+			"ataque": 60,
+			"defensa": 45,
+			"velocidad": 65
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/gulpin.png",
+			"nombre": "Gulpin",
+			"hp": 70,
+			"ataque": 43,
+			"defensa": 53,
+			"velocidad": 40
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/swalot.png",
+			"nombre": "Swalot",
+			"hp": 100,
+			"ataque": 73,
+			"defensa": 83,
+			"velocidad": 55
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/carvanha.png",
+			"nombre": "Carvanha",
+			"hp": 45,
+			"ataque": 90,
+			"defensa": 20,
+			"velocidad": 65
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/sharpedo.png",
+			"nombre": "Sharpedo",
+			"hp": 70,
+			"ataque": 120,
+			"defensa": 40,
+			"velocidad": 95
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/sharpedo-mega.png",
+			"nombre": "Sharpedo",
+			"hp": 70,
+			"ataque": 140,
+			"defensa": 70,
+			"velocidad": 105
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/wailmer.png",
+			"nombre": "Wailmer",
+			"hp": 130,
+			"ataque": 70,
+			"defensa": 35,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/wailord.png",
+			"nombre": "Wailord",
+			"hp": 170,
+			"ataque": 90,
+			"defensa": 45,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/numel.png",
+			"nombre": "Numel",
+			"hp": 60,
+			"ataque": 60,
+			"defensa": 40,
+			"velocidad": 35
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/camerupt.png",
+			"nombre": "Camerupt",
+			"hp": 70,
+			"ataque": 100,
+			"defensa": 70,
+			"velocidad": 40
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/camerupt-mega.png",
+			"nombre": "Camerupt",
+			"hp": 70,
+			"ataque": 120,
+			"defensa": 100,
+			"velocidad": 20
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/torkoal.png",
+			"nombre": "Torkoal",
+			"hp": 70,
+			"ataque": 85,
+			"defensa": 140,
+			"velocidad": 20
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/spoink.png",
+			"nombre": "Spoink",
+			"hp": 60,
+			"ataque": 25,
+			"defensa": 35,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/grumpig.png",
+			"nombre": "Grumpig",
+			"hp": 80,
+			"ataque": 45,
+			"defensa": 65,
+			"velocidad": 80
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/spinda.png",
+			"nombre": "Spinda",
+			"hp": 60,
+			"ataque": 60,
+			"defensa": 60,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/trapinch.png",
+			"nombre": "Trapinch",
+			"hp": 45,
+			"ataque": 100,
+			"defensa": 45,
+			"velocidad": 10
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/vibrava.png",
+			"nombre": "Vibrava",
+			"hp": 50,
+			"ataque": 70,
+			"defensa": 50,
+			"velocidad": 70
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/flygon.png",
+			"nombre": "Flygon",
+			"hp": 80,
+			"ataque": 100,
+			"defensa": 80,
+			"velocidad": 100
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/cacnea.png",
+			"nombre": "Cacnea",
+			"hp": 50,
+			"ataque": 85,
+			"defensa": 40,
+			"velocidad": 35
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/cacturne.png",
+			"nombre": "Cacturne",
+			"hp": 70,
+			"ataque": 115,
+			"defensa": 60,
+			"velocidad": 55
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/swablu.png",
+			"nombre": "Swablu",
+			"hp": 45,
+			"ataque": 40,
+			"defensa": 60,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/altaria.png",
+			"nombre": "Altaria",
+			"hp": 75,
+			"ataque": 70,
+			"defensa": 90,
+			"velocidad": 80
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/altaria-mega.png",
+			"nombre": "Altaria",
+			"hp": 75,
+			"ataque": 110,
+			"defensa": 110,
+			"velocidad": 80
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/zangoose.png",
+			"nombre": "Zangoose",
+			"hp": 73,
+			"ataque": 115,
+			"defensa": 60,
+			"velocidad": 90
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/seviper.png",
+			"nombre": "Seviper",
+			"hp": 73,
+			"ataque": 100,
+			"defensa": 60,
+			"velocidad": 65
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/lunatone.png",
+			"nombre": "Lunatone",
+			"hp": 90,
+			"ataque": 55,
+			"defensa": 65,
+			"velocidad": 70
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/solrock.png",
+			"nombre": "Solrock",
+			"hp": 90,
+			"ataque": 95,
+			"defensa": 85,
+			"velocidad": 70
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/barboach.png",
+			"nombre": "Barboach",
+			"hp": 50,
+			"ataque": 48,
+			"defensa": 43,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/whiscash.png",
+			"nombre": "Whiscash",
+			"hp": 110,
+			"ataque": 78,
+			"defensa": 73,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/corphish.png",
+			"nombre": "Corphish",
+			"hp": 43,
+			"ataque": 80,
+			"defensa": 65,
+			"velocidad": 35
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/crawdaunt.png",
+			"nombre": "Crawdaunt",
+			"hp": 63,
+			"ataque": 120,
+			"defensa": 85,
+			"velocidad": 55
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/baltoy.png",
+			"nombre": "Baltoy",
+			"hp": 40,
+			"ataque": 40,
+			"defensa": 55,
+			"velocidad": 55
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/claydol.png",
+			"nombre": "Claydol",
+			"hp": 60,
+			"ataque": 70,
+			"defensa": 105,
+			"velocidad": 75
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/lileep.png",
+			"nombre": "Lileep",
+			"hp": 66,
+			"ataque": 41,
+			"defensa": 77,
+			"velocidad": 23
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/cradily.png",
+			"nombre": "Cradily",
+			"hp": 86,
+			"ataque": 81,
+			"defensa": 97,
+			"velocidad": 43
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/anorith.png",
+			"nombre": "Anorith",
+			"hp": 45,
+			"ataque": 95,
+			"defensa": 50,
+			"velocidad": 75
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/armaldo.png",
+			"nombre": "Armaldo",
+			"hp": 75,
+			"ataque": 125,
+			"defensa": 100,
+			"velocidad": 45
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/feebas.png",
+			"nombre": "Feebas",
+			"hp": 20,
+			"ataque": 15,
+			"defensa": 20,
+			"velocidad": 80
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/milotic.png",
+			"nombre": "Milotic",
+			"hp": 95,
+			"ataque": 60,
+			"defensa": 79,
+			"velocidad": 81
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/castform.png",
+			"nombre": "Castform",
+			"hp": 70,
+			"ataque": 70,
+			"defensa": 70,
+			"velocidad": 70
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Castform",
+			"hp": 70,
+			"ataque": 70,
+			"defensa": 70,
+			"velocidad": 70
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Castform",
+			"hp": 70,
+			"ataque": 70,
+			"defensa": 70,
+			"velocidad": 70
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Castform",
+			"hp": 70,
+			"ataque": 70,
+			"defensa": 70,
+			"velocidad": 70
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/kecleon.png",
+			"nombre": "Kecleon",
+			"hp": 60,
+			"ataque": 90,
+			"defensa": 70,
+			"velocidad": 40
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/shuppet.png",
+			"nombre": "Shuppet",
+			"hp": 44,
+			"ataque": 75,
+			"defensa": 35,
+			"velocidad": 45
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/banette.png",
+			"nombre": "Banette",
+			"hp": 64,
+			"ataque": 115,
+			"defensa": 65,
+			"velocidad": 65
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/banette-mega.png",
+			"nombre": "Banette",
+			"hp": 64,
+			"ataque": 165,
+			"defensa": 75,
+			"velocidad": 75
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/duskull.png",
+			"nombre": "Duskull",
+			"hp": 20,
+			"ataque": 40,
+			"defensa": 90,
+			"velocidad": 25
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/dusclops.png",
+			"nombre": "Dusclops",
+			"hp": 40,
+			"ataque": 70,
+			"defensa": 130,
+			"velocidad": 25
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/tropius.png",
+			"nombre": "Tropius",
+			"hp": 99,
+			"ataque": 68,
+			"defensa": 83,
+			"velocidad": 51
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/chimecho.png",
+			"nombre": "Chimecho",
+			"hp": 75,
+			"ataque": 50,
+			"defensa": 80,
+			"velocidad": 65
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/absol.png",
+			"nombre": "Absol",
+			"hp": 65,
+			"ataque": 130,
+			"defensa": 60,
+			"velocidad": 75
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/absol-mega.png",
+			"nombre": "Absol",
+			"hp": 65,
+			"ataque": 150,
+			"defensa": 60,
+			"velocidad": 115
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/wynaut.png",
+			"nombre": "Wynaut",
+			"hp": 95,
+			"ataque": 23,
+			"defensa": 48,
+			"velocidad": 23
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/snorunt.png",
+			"nombre": "Snorunt",
+			"hp": 50,
+			"ataque": 50,
+			"defensa": 50,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/glalie.png",
+			"nombre": "Glalie",
+			"hp": 80,
+			"ataque": 80,
+			"defensa": 80,
+			"velocidad": 80
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/glalie-mega.png",
+			"nombre": "Glalie",
+			"hp": 80,
+			"ataque": 120,
+			"defensa": 80,
+			"velocidad": 100
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/spheal.png",
+			"nombre": "Spheal",
+			"hp": 70,
+			"ataque": 40,
+			"defensa": 50,
+			"velocidad": 25
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/sealeo.png",
+			"nombre": "Sealeo",
+			"hp": 90,
+			"ataque": 60,
+			"defensa": 70,
+			"velocidad": 45
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/walrein.png",
+			"nombre": "Walrein",
+			"hp": 110,
+			"ataque": 80,
+			"defensa": 90,
+			"velocidad": 65
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/clamperl.png",
+			"nombre": "Clamperl",
+			"hp": 35,
+			"ataque": 64,
+			"defensa": 85,
+			"velocidad": 32
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/huntail.png",
+			"nombre": "Huntail",
+			"hp": 55,
+			"ataque": 104,
+			"defensa": 105,
+			"velocidad": 52
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/gorebyss.png",
+			"nombre": "Gorebyss",
+			"hp": 55,
+			"ataque": 84,
+			"defensa": 105,
+			"velocidad": 52
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/relicanth.png",
+			"nombre": "Relicanth",
+			"hp": 100,
+			"ataque": 90,
+			"defensa": 130,
+			"velocidad": 55
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/luvdisc.png",
+			"nombre": "Luvdisc",
+			"hp": 43,
+			"ataque": 30,
+			"defensa": 55,
+			"velocidad": 97
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/bagon.png",
+			"nombre": "Bagon",
+			"hp": 45,
+			"ataque": 75,
+			"defensa": 60,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/shelgon.png",
+			"nombre": "Shelgon",
+			"hp": 65,
+			"ataque": 95,
+			"defensa": 100,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/salamence.png",
+			"nombre": "Salamence",
+			"hp": 95,
+			"ataque": 135,
+			"defensa": 80,
+			"velocidad": 100
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/salamence-mega.png",
+			"nombre": "Salamence",
+			"hp": 95,
+			"ataque": 145,
+			"defensa": 130,
+			"velocidad": 120
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/beldum.png",
+			"nombre": "Beldum",
+			"hp": 40,
+			"ataque": 55,
+			"defensa": 80,
+			"velocidad": 30
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/metang.png",
+			"nombre": "Metang",
+			"hp": 60,
+			"ataque": 75,
+			"defensa": 100,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/metagross.png",
+			"nombre": "Metagross",
+			"hp": 80,
+			"ataque": 135,
+			"defensa": 130,
+			"velocidad": 70
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/metagross-mega.png",
+			"nombre": "Metagross",
+			"hp": 80,
+			"ataque": 145,
+			"defensa": 150,
+			"velocidad": 110
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/regirock.png",
+			"nombre": "Regirock",
+			"hp": 80,
+			"ataque": 100,
+			"defensa": 200,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/regice.png",
+			"nombre": "Regice",
+			"hp": 80,
+			"ataque": 50,
+			"defensa": 100,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/registeel.png",
+			"nombre": "Registeel",
+			"hp": 80,
+			"ataque": 75,
+			"defensa": 150,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/latias.png",
+			"nombre": "Latias",
+			"hp": 80,
+			"ataque": 80,
+			"defensa": 90,
+			"velocidad": 110
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/latias-mega.png",
+			"nombre": "Latias",
+			"hp": 80,
+			"ataque": 100,
+			"defensa": 120,
+			"velocidad": 110
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/latios.png",
+			"nombre": "Latios",
+			"hp": 80,
+			"ataque": 90,
+			"defensa": 80,
+			"velocidad": 110
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/latios-mega.png",
+			"nombre": "Latios",
+			"hp": 80,
+			"ataque": 130,
+			"defensa": 100,
+			"velocidad": 110
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/kyogre.png",
+			"nombre": "Kyogre",
+			"hp": 100,
+			"ataque": 100,
+			"defensa": 90,
+			"velocidad": 90
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/kyogre-primal.png",
+			"nombre": "Kyogre",
+			"hp": 100,
+			"ataque": 150,
+			"defensa": 90,
+			"velocidad": 90
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/groudon.png",
+			"nombre": "Groudon",
+			"hp": 100,
+			"ataque": 150,
+			"defensa": 140,
+			"velocidad": 90
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/groudon-primal.png",
+			"nombre": "Groudon",
+			"hp": 100,
+			"ataque": 180,
+			"defensa": 160,
+			"velocidad": 90
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/rayquaza.png",
+			"nombre": "Rayquaza",
+			"hp": 105,
+			"ataque": 150,
+			"defensa": 90,
+			"velocidad": 95
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/rayquaza-mega.png",
+			"nombre": "Rayquaza",
+			"hp": 105,
+			"ataque": 180,
+			"defensa": 100,
+			"velocidad": 115
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/jirachi.png",
+			"nombre": "Jirachi",
+			"hp": 100,
+			"ataque": 100,
+			"defensa": 100,
+			"velocidad": 100
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/deoxys-normal.png",
+			"nombre": "Deoxys",
+			"hp": 50,
+			"ataque": 150,
+			"defensa": 50,
+			"velocidad": 150
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/deoxys-attack.png",
+			"nombre": "Deoxys",
+			"hp": 50,
+			"ataque": 180,
+			"defensa": 20,
+			"velocidad": 150
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/deoxys-defense.png",
+			"nombre": "Deoxys",
+			"hp": 50,
+			"ataque": 70,
+			"defensa": 160,
+			"velocidad": 90
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/deoxys-speed.png",
+			"nombre": "Deoxys",
+			"hp": 50,
+			"ataque": 95,
+			"defensa": 90,
+			"velocidad": 180
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/turtwig.png",
+			"nombre": "Turtwig",
+			"hp": 55,
+			"ataque": 68,
+			"defensa": 64,
+			"velocidad": 31
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/grotle.png",
+			"nombre": "Grotle",
+			"hp": 75,
+			"ataque": 89,
+			"defensa": 85,
+			"velocidad": 36
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/torterra.png",
+			"nombre": "Torterra",
+			"hp": 95,
+			"ataque": 109,
+			"defensa": 105,
+			"velocidad": 56
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/chimchar.png",
+			"nombre": "Chimchar",
+			"hp": 44,
+			"ataque": 58,
+			"defensa": 44,
+			"velocidad": 61
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/monferno.png",
+			"nombre": "Monferno",
+			"hp": 64,
+			"ataque": 78,
+			"defensa": 52,
+			"velocidad": 81
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/infernape.png",
+			"nombre": "Infernape",
+			"hp": 76,
+			"ataque": 104,
+			"defensa": 71,
+			"velocidad": 108
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/piplup.png",
+			"nombre": "Piplup",
+			"hp": 53,
+			"ataque": 51,
+			"defensa": 53,
+			"velocidad": 40
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/prinplup.png",
+			"nombre": "Prinplup",
+			"hp": 64,
+			"ataque": 66,
+			"defensa": 68,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/empoleon.png",
+			"nombre": "Empoleon",
+			"hp": 84,
+			"ataque": 86,
+			"defensa": 88,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/starly.png",
+			"nombre": "Starly",
+			"hp": 40,
+			"ataque": 55,
+			"defensa": 30,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/staravia.png",
+			"nombre": "Staravia",
+			"hp": 55,
+			"ataque": 75,
+			"defensa": 50,
+			"velocidad": 80
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/staraptor.png",
+			"nombre": "Staraptor",
+			"hp": 85,
+			"ataque": 120,
+			"defensa": 70,
+			"velocidad": 100
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/bidoof.png",
+			"nombre": "Bidoof",
+			"hp": 59,
+			"ataque": 45,
+			"defensa": 40,
+			"velocidad": 31
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/bibarel.png",
+			"nombre": "Bibarel",
+			"hp": 79,
+			"ataque": 85,
+			"defensa": 60,
+			"velocidad": 71
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/kricketot.png",
+			"nombre": "Kricketot",
+			"hp": 37,
+			"ataque": 25,
+			"defensa": 41,
+			"velocidad": 25
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/kricketune.png",
+			"nombre": "Kricketune",
+			"hp": 77,
+			"ataque": 85,
+			"defensa": 51,
+			"velocidad": 65
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/shinx.png",
+			"nombre": "Shinx",
+			"hp": 45,
+			"ataque": 65,
+			"defensa": 34,
+			"velocidad": 45
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/luxio.png",
+			"nombre": "Luxio",
+			"hp": 60,
+			"ataque": 85,
+			"defensa": 49,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/luxray.png",
+			"nombre": "Luxray",
+			"hp": 80,
+			"ataque": 120,
+			"defensa": 79,
+			"velocidad": 70
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/budew.png",
+			"nombre": "Budew",
+			"hp": 40,
+			"ataque": 30,
+			"defensa": 35,
+			"velocidad": 55
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/roserade.png",
+			"nombre": "Roserade",
+			"hp": 60,
+			"ataque": 70,
+			"defensa": 65,
+			"velocidad": 90
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/cranidos.png",
+			"nombre": "Cranidos",
+			"hp": 67,
+			"ataque": 125,
+			"defensa": 40,
+			"velocidad": 58
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/rampardos.png",
+			"nombre": "Rampardos",
+			"hp": 97,
+			"ataque": 165,
+			"defensa": 60,
+			"velocidad": 58
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/shieldon.png",
+			"nombre": "Shieldon",
+			"hp": 30,
+			"ataque": 42,
+			"defensa": 118,
+			"velocidad": 30
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/bastiodon.png",
+			"nombre": "Bastiodon",
+			"hp": 60,
+			"ataque": 52,
+			"defensa": 168,
+			"velocidad": 30
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/burmy.png",
+			"nombre": "Burmy",
+			"hp": 40,
+			"ataque": 29,
+			"defensa": 45,
+			"velocidad": 36
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/wormadam-plant.png",
+			"nombre": "Wormadam",
+			"hp": 60,
+			"ataque": 59,
+			"defensa": 85,
+			"velocidad": 36
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/wormadam-sandy.png",
+			"nombre": "Wormadam",
+			"hp": 60,
+			"ataque": 79,
+			"defensa": 105,
+			"velocidad": 36
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/wormadam-trash.png",
+			"nombre": "Wormadam",
+			"hp": 60,
+			"ataque": 69,
+			"defensa": 95,
+			"velocidad": 36
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/mothim.png",
+			"nombre": "Mothim",
+			"hp": 70,
+			"ataque": 94,
+			"defensa": 50,
+			"velocidad": 66
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/combee.png",
+			"nombre": "Combee",
+			"hp": 30,
+			"ataque": 30,
+			"defensa": 42,
+			"velocidad": 70
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/vespiquen.png",
+			"nombre": "Vespiquen",
+			"hp": 70,
+			"ataque": 80,
+			"defensa": 102,
+			"velocidad": 40
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/pachirisu.png",
+			"nombre": "Pachirisu",
+			"hp": 60,
+			"ataque": 45,
+			"defensa": 70,
+			"velocidad": 95
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/buizel.png",
+			"nombre": "Buizel",
+			"hp": 55,
+			"ataque": 65,
+			"defensa": 35,
+			"velocidad": 85
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/floatzel.png",
+			"nombre": "Floatzel",
+			"hp": 85,
+			"ataque": 105,
+			"defensa": 55,
+			"velocidad": 115
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/cherubi.png",
+			"nombre": "Cherubi",
+			"hp": 45,
+			"ataque": 35,
+			"defensa": 45,
+			"velocidad": 35
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/cherrim.png",
+			"nombre": "Cherrim",
+			"hp": 70,
+			"ataque": 60,
+			"defensa": 70,
+			"velocidad": 85
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/shellos.png",
+			"nombre": "Shellos",
+			"hp": 76,
+			"ataque": 48,
+			"defensa": 48,
+			"velocidad": 34
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/gastrodon.png",
+			"nombre": "Gastrodon",
+			"hp": 111,
+			"ataque": 83,
+			"defensa": 68,
+			"velocidad": 39
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/ambipom.png",
+			"nombre": "Ambipom",
+			"hp": 75,
+			"ataque": 100,
+			"defensa": 66,
+			"velocidad": 115
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/drifloon.png",
+			"nombre": "Drifloon",
+			"hp": 90,
+			"ataque": 50,
+			"defensa": 34,
+			"velocidad": 70
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/drifblim.png",
+			"nombre": "Drifblim",
+			"hp": 150,
+			"ataque": 80,
+			"defensa": 44,
+			"velocidad": 80
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/buneary.png",
+			"nombre": "Buneary",
+			"hp": 55,
+			"ataque": 66,
+			"defensa": 44,
+			"velocidad": 85
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/lopunny.png",
+			"nombre": "Lopunny",
+			"hp": 65,
+			"ataque": 76,
+			"defensa": 84,
+			"velocidad": 105
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/lopunny-mega.png",
+			"nombre": "Lopunny",
+			"hp": 65,
+			"ataque": 136,
+			"defensa": 94,
+			"velocidad": 135
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/mismagius.png",
+			"nombre": "Mismagius",
+			"hp": 60,
+			"ataque": 60,
+			"defensa": 60,
+			"velocidad": 105
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/honchkrow.png",
+			"nombre": "Honchkrow",
+			"hp": 100,
+			"ataque": 125,
+			"defensa": 52,
+			"velocidad": 71
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/glameow.png",
+			"nombre": "Glameow",
+			"hp": 49,
+			"ataque": 55,
+			"defensa": 42,
+			"velocidad": 85
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/purugly.png",
+			"nombre": "Purugly",
+			"hp": 71,
+			"ataque": 82,
+			"defensa": 64,
+			"velocidad": 112
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/chingling.png",
+			"nombre": "Chingling",
+			"hp": 45,
+			"ataque": 30,
+			"defensa": 50,
+			"velocidad": 45
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/stunky.png",
+			"nombre": "Stunky",
+			"hp": 63,
+			"ataque": 63,
+			"defensa": 47,
+			"velocidad": 74
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/skuntank.png",
+			"nombre": "Skuntank",
+			"hp": 103,
+			"ataque": 93,
+			"defensa": 67,
+			"velocidad": 84
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/bronzor.png",
+			"nombre": "Bronzor",
+			"hp": 57,
+			"ataque": 24,
+			"defensa": 86,
+			"velocidad": 23
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/bronzong.png",
+			"nombre": "Bronzong",
+			"hp": 67,
+			"ataque": 89,
+			"defensa": 116,
+			"velocidad": 33
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/bonsly.png",
+			"nombre": "Bonsly",
+			"hp": 50,
+			"ataque": 80,
+			"defensa": 95,
+			"velocidad": 10
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/mime-jr.png",
+			"nombre": "Mime Jr.",
+			"hp": 20,
+			"ataque": 25,
+			"defensa": 45,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/happiny.png",
+			"nombre": "Happiny",
+			"hp": 100,
+			"ataque": 5,
+			"defensa": 5,
+			"velocidad": 30
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/chatot.png",
+			"nombre": "Chatot",
+			"hp": 76,
+			"ataque": 65,
+			"defensa": 45,
+			"velocidad": 91
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/spiritomb.png",
+			"nombre": "Spiritomb",
+			"hp": 50,
+			"ataque": 92,
+			"defensa": 108,
+			"velocidad": 35
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/gible.png",
+			"nombre": "Gible",
+			"hp": 58,
+			"ataque": 70,
+			"defensa": 45,
+			"velocidad": 42
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/gabite.png",
+			"nombre": "Gabite",
+			"hp": 68,
+			"ataque": 90,
+			"defensa": 65,
+			"velocidad": 82
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/garchomp.png",
+			"nombre": "Garchomp",
+			"hp": 108,
+			"ataque": 130,
+			"defensa": 95,
+			"velocidad": 102
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/garchomp-mega.png",
+			"nombre": "Garchomp",
+			"hp": 108,
+			"ataque": 170,
+			"defensa": 115,
+			"velocidad": 92
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/munchlax.png",
+			"nombre": "Munchlax",
+			"hp": 135,
+			"ataque": 85,
+			"defensa": 40,
+			"velocidad": 5
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/riolu.png",
+			"nombre": "Riolu",
+			"hp": 40,
+			"ataque": 70,
+			"defensa": 40,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/lucario.png",
+			"nombre": "Lucario",
+			"hp": 70,
+			"ataque": 110,
+			"defensa": 70,
+			"velocidad": 90
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/lucario-mega.png",
+			"nombre": "Lucario",
+			"hp": 70,
+			"ataque": 145,
+			"defensa": 88,
+			"velocidad": 112
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/hippopotas.png",
+			"nombre": "Hippopotas",
+			"hp": 68,
+			"ataque": 72,
+			"defensa": 78,
+			"velocidad": 32
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/hippowdon.png",
+			"nombre": "Hippowdon",
+			"hp": 108,
+			"ataque": 112,
+			"defensa": 118,
+			"velocidad": 47
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/skorupi.png",
+			"nombre": "Skorupi",
+			"hp": 40,
+			"ataque": 50,
+			"defensa": 90,
+			"velocidad": 65
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/drapion.png",
+			"nombre": "Drapion",
+			"hp": 70,
+			"ataque": 90,
+			"defensa": 110,
+			"velocidad": 95
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/croagunk.png",
+			"nombre": "Croagunk",
+			"hp": 48,
+			"ataque": 61,
+			"defensa": 40,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/toxicroak.png",
+			"nombre": "Toxicroak",
+			"hp": 83,
+			"ataque": 106,
+			"defensa": 65,
+			"velocidad": 85
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/carnivine.png",
+			"nombre": "Carnivine",
+			"hp": 74,
+			"ataque": 100,
+			"defensa": 72,
+			"velocidad": 46
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/finneon.png",
+			"nombre": "Finneon",
+			"hp": 49,
+			"ataque": 49,
+			"defensa": 56,
+			"velocidad": 66
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/lumineon.png",
+			"nombre": "Lumineon",
+			"hp": 69,
+			"ataque": 69,
+			"defensa": 76,
+			"velocidad": 91
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/mantyke.png",
+			"nombre": "Mantyke",
+			"hp": 45,
+			"ataque": 20,
+			"defensa": 50,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/snover.png",
+			"nombre": "Snover",
+			"hp": 60,
+			"ataque": 62,
+			"defensa": 50,
+			"velocidad": 40
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/abomasnow.png",
+			"nombre": "Abomasnow",
+			"hp": 90,
+			"ataque": 92,
+			"defensa": 75,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/abomasnow-mega.png",
+			"nombre": "Abomasnow",
+			"hp": 90,
+			"ataque": 132,
+			"defensa": 105,
+			"velocidad": 30
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/weavile.png",
+			"nombre": "Weavile",
+			"hp": 70,
+			"ataque": 120,
+			"defensa": 65,
+			"velocidad": 125
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/magnezone.png",
+			"nombre": "Magnezone",
+			"hp": 70,
+			"ataque": 70,
+			"defensa": 115,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/lickilicky.png",
+			"nombre": "Lickilicky",
+			"hp": 110,
+			"ataque": 85,
+			"defensa": 95,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/rhyperior.png",
+			"nombre": "Rhyperior",
+			"hp": 115,
+			"ataque": 140,
+			"defensa": 130,
+			"velocidad": 40
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/tangrowth.png",
+			"nombre": "Tangrowth",
+			"hp": 100,
+			"ataque": 100,
+			"defensa": 125,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/electivire.png",
+			"nombre": "Electivire",
+			"hp": 75,
+			"ataque": 123,
+			"defensa": 67,
+			"velocidad": 95
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/magmortar.png",
+			"nombre": "Magmortar",
+			"hp": 75,
+			"ataque": 95,
+			"defensa": 67,
+			"velocidad": 83
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/togekiss.png",
+			"nombre": "Togekiss",
+			"hp": 85,
+			"ataque": 50,
+			"defensa": 95,
+			"velocidad": 80
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/yanmega.png",
+			"nombre": "Yanmega",
+			"hp": 86,
+			"ataque": 76,
+			"defensa": 86,
+			"velocidad": 95
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/leafeon.png",
+			"nombre": "Leafeon",
+			"hp": 65,
+			"ataque": 110,
+			"defensa": 130,
+			"velocidad": 95
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/glaceon.png",
+			"nombre": "Glaceon",
+			"hp": 65,
+			"ataque": 60,
+			"defensa": 110,
+			"velocidad": 65
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/gliscor.png",
+			"nombre": "Gliscor",
+			"hp": 75,
+			"ataque": 95,
+			"defensa": 125,
+			"velocidad": 95
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/mamoswine.png",
+			"nombre": "Mamoswine",
+			"hp": 110,
+			"ataque": 130,
+			"defensa": 80,
+			"velocidad": 80
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/porygon-z.png",
+			"nombre": "Porygon-Z",
+			"hp": 85,
+			"ataque": 80,
+			"defensa": 70,
+			"velocidad": 90
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/gallade.png",
+			"nombre": "Gallade",
+			"hp": 68,
+			"ataque": 125,
+			"defensa": 65,
+			"velocidad": 80
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/gallade-mega.png",
+			"nombre": "Gallade",
+			"hp": 68,
+			"ataque": 165,
+			"defensa": 95,
+			"velocidad": 110
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/probopass.png",
+			"nombre": "Probopass",
+			"hp": 60,
+			"ataque": 55,
+			"defensa": 145,
+			"velocidad": 40
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/dusknoir.png",
+			"nombre": "Dusknoir",
+			"hp": 45,
+			"ataque": 100,
+			"defensa": 135,
+			"velocidad": 45
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/froslass.png",
+			"nombre": "Froslass",
+			"hp": 70,
+			"ataque": 80,
+			"defensa": 70,
+			"velocidad": 110
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/rotom.png",
+			"nombre": "Rotom",
+			"hp": 50,
+			"ataque": 50,
+			"defensa": 77,
+			"velocidad": 91
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/rotom-heat.png",
+			"nombre": "Rotom",
+			"hp": 50,
+			"ataque": 65,
+			"defensa": 107,
+			"velocidad": 86
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/rotom-wash.png",
+			"nombre": "Rotom",
+			"hp": 50,
+			"ataque": 65,
+			"defensa": 107,
+			"velocidad": 86
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/rotom-frost.png",
+			"nombre": "Rotom",
+			"hp": 50,
+			"ataque": 65,
+			"defensa": 107,
+			"velocidad": 86
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/rotom-fan.png",
+			"nombre": "Rotom",
+			"hp": 50,
+			"ataque": 65,
+			"defensa": 107,
+			"velocidad": 86
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/rotom-mow.png",
+			"nombre": "Rotom",
+			"hp": 50,
+			"ataque": 65,
+			"defensa": 107,
+			"velocidad": 86
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/uxie.png",
+			"nombre": "Uxie",
+			"hp": 75,
+			"ataque": 75,
+			"defensa": 130,
+			"velocidad": 95
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/mesprit.png",
+			"nombre": "Mesprit",
+			"hp": 80,
+			"ataque": 105,
+			"defensa": 105,
+			"velocidad": 80
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/azelf.png",
+			"nombre": "Azelf",
+			"hp": 75,
+			"ataque": 125,
+			"defensa": 70,
+			"velocidad": 115
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/dialga.png",
+			"nombre": "Dialga",
+			"hp": 100,
+			"ataque": 120,
+			"defensa": 120,
+			"velocidad": 90
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/palkia.png",
+			"nombre": "Palkia",
+			"hp": 90,
+			"ataque": 120,
+			"defensa": 100,
+			"velocidad": 100
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/heatran.png",
+			"nombre": "Heatran",
+			"hp": 91,
+			"ataque": 90,
+			"defensa": 106,
+			"velocidad": 77
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/regigigas.png",
+			"nombre": "Regigigas",
+			"hp": 110,
+			"ataque": 160,
+			"defensa": 110,
+			"velocidad": 100
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/giratina-altered.png",
+			"nombre": "Giratina",
+			"hp": 150,
+			"ataque": 100,
+			"defensa": 120,
+			"velocidad": 90
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/giratina-origin.png",
+			"nombre": "Giratina",
+			"hp": 150,
+			"ataque": 120,
+			"defensa": 100,
+			"velocidad": 90
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/cresselia.png",
+			"nombre": "Cresselia",
+			"hp": 120,
+			"ataque": 70,
+			"defensa": 120,
+			"velocidad": 85
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/phione.png",
+			"nombre": "Phione",
+			"hp": 80,
+			"ataque": 80,
+			"defensa": 80,
+			"velocidad": 80
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/manaphy.png",
+			"nombre": "Manaphy",
+			"hp": 100,
+			"ataque": 100,
+			"defensa": 100,
+			"velocidad": 100
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/darkrai.png",
+			"nombre": "Darkrai",
+			"hp": 70,
+			"ataque": 90,
+			"defensa": 90,
+			"velocidad": 125
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/shaymin-land.png",
+			"nombre": "Shaymin",
+			"hp": 100,
+			"ataque": 100,
+			"defensa": 100,
+			"velocidad": 100
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/shaymin-sky.png",
+			"nombre": "Shaymin",
+			"hp": 100,
+			"ataque": 103,
+			"defensa": 75,
+			"velocidad": 127
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/arceus.png",
+			"nombre": "Arceus",
+			"hp": 120,
+			"ataque": 120,
+			"defensa": 120,
+			"velocidad": 120
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/victini.png",
+			"nombre": "Victini",
+			"hp": 100,
+			"ataque": 100,
+			"defensa": 100,
+			"velocidad": 100
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/snivy.png",
+			"nombre": "Snivy",
+			"hp": 45,
+			"ataque": 45,
+			"defensa": 55,
+			"velocidad": 63
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/servine.png",
+			"nombre": "Servine",
+			"hp": 60,
+			"ataque": 60,
+			"defensa": 75,
+			"velocidad": 83
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/serperior.png",
+			"nombre": "Serperior",
+			"hp": 75,
+			"ataque": 75,
+			"defensa": 95,
+			"velocidad": 113
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/tepig.png",
+			"nombre": "Tepig",
+			"hp": 65,
+			"ataque": 63,
+			"defensa": 45,
+			"velocidad": 45
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/pignite.png",
+			"nombre": "Pignite",
+			"hp": 90,
+			"ataque": 93,
+			"defensa": 55,
+			"velocidad": 55
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/emboar.png",
+			"nombre": "Emboar",
+			"hp": 110,
+			"ataque": 123,
+			"defensa": 65,
+			"velocidad": 65
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/oshawott.png",
+			"nombre": "Oshawott",
+			"hp": 55,
+			"ataque": 55,
+			"defensa": 45,
+			"velocidad": 45
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/dewott.png",
+			"nombre": "Dewott",
+			"hp": 75,
+			"ataque": 75,
+			"defensa": 60,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/samurott.png",
+			"nombre": "Samurott",
+			"hp": 95,
+			"ataque": 100,
+			"defensa": 85,
+			"velocidad": 70
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/patrat.png",
+			"nombre": "Patrat",
+			"hp": 45,
+			"ataque": 55,
+			"defensa": 39,
+			"velocidad": 42
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/watchog.png",
+			"nombre": "Watchog",
+			"hp": 60,
+			"ataque": 85,
+			"defensa": 69,
+			"velocidad": 77
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/lillipup.png",
+			"nombre": "Lillipup",
+			"hp": 45,
+			"ataque": 60,
+			"defensa": 45,
+			"velocidad": 55
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/herdier.png",
+			"nombre": "Herdier",
+			"hp": 65,
+			"ataque": 80,
+			"defensa": 65,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/stoutland.png",
+			"nombre": "Stoutland",
+			"hp": 85,
+			"ataque": 110,
+			"defensa": 90,
+			"velocidad": 80
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/purrloin.png",
+			"nombre": "Purrloin",
+			"hp": 41,
+			"ataque": 50,
+			"defensa": 37,
+			"velocidad": 66
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/liepard.png",
+			"nombre": "Liepard",
+			"hp": 64,
+			"ataque": 88,
+			"defensa": 50,
+			"velocidad": 106
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/pansage.png",
+			"nombre": "Pansage",
+			"hp": 50,
+			"ataque": 53,
+			"defensa": 48,
+			"velocidad": 64
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/simisage.png",
+			"nombre": "Simisage",
+			"hp": 75,
+			"ataque": 98,
+			"defensa": 63,
+			"velocidad": 101
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/pansear.png",
+			"nombre": "Pansear",
+			"hp": 50,
+			"ataque": 53,
+			"defensa": 48,
+			"velocidad": 64
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/simisear.png",
+			"nombre": "Simisear",
+			"hp": 75,
+			"ataque": 98,
+			"defensa": 63,
+			"velocidad": 101
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/panpour.png",
+			"nombre": "Panpour",
+			"hp": 50,
+			"ataque": 53,
+			"defensa": 48,
+			"velocidad": 64
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/simipour.png",
+			"nombre": "Simipour",
+			"hp": 75,
+			"ataque": 98,
+			"defensa": 63,
+			"velocidad": 101
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/munna.png",
+			"nombre": "Munna",
+			"hp": 76,
+			"ataque": 25,
+			"defensa": 45,
+			"velocidad": 24
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/musharna.png",
+			"nombre": "Musharna",
+			"hp": 116,
+			"ataque": 55,
+			"defensa": 85,
+			"velocidad": 29
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/pidove.png",
+			"nombre": "Pidove",
+			"hp": 50,
+			"ataque": 55,
+			"defensa": 50,
+			"velocidad": 43
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/tranquill.png",
+			"nombre": "Tranquill",
+			"hp": 62,
+			"ataque": 77,
+			"defensa": 62,
+			"velocidad": 65
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/unfezant.png",
+			"nombre": "Unfezant",
+			"hp": 80,
+			"ataque": 115,
+			"defensa": 80,
+			"velocidad": 93
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/blitzle.png",
+			"nombre": "Blitzle",
+			"hp": 45,
+			"ataque": 60,
+			"defensa": 32,
+			"velocidad": 76
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/zebstrika.png",
+			"nombre": "Zebstrika",
+			"hp": 75,
+			"ataque": 100,
+			"defensa": 63,
+			"velocidad": 116
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/roggenrola.png",
+			"nombre": "Roggenrola",
+			"hp": 55,
+			"ataque": 75,
+			"defensa": 85,
+			"velocidad": 15
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/boldore.png",
+			"nombre": "Boldore",
+			"hp": 70,
+			"ataque": 105,
+			"defensa": 105,
+			"velocidad": 20
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/gigalith.png",
+			"nombre": "Gigalith",
+			"hp": 85,
+			"ataque": 135,
+			"defensa": 130,
+			"velocidad": 25
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/woobat.png",
+			"nombre": "Woobat",
+			"hp": 65,
+			"ataque": 45,
+			"defensa": 43,
+			"velocidad": 72
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/swoobat.png",
+			"nombre": "Swoobat",
+			"hp": 67,
+			"ataque": 57,
+			"defensa": 55,
+			"velocidad": 114
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/drilbur.png",
+			"nombre": "Drilbur",
+			"hp": 60,
+			"ataque": 85,
+			"defensa": 40,
+			"velocidad": 68
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/excadrill.png",
+			"nombre": "Excadrill",
+			"hp": 110,
+			"ataque": 135,
+			"defensa": 60,
+			"velocidad": 88
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/audino.png",
+			"nombre": "Audino",
+			"hp": 103,
+			"ataque": 60,
+			"defensa": 86,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/audino-mega.png",
+			"nombre": "Audino",
+			"hp": 103,
+			"ataque": 60,
+			"defensa": 126,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/timburr.png",
+			"nombre": "Timburr",
+			"hp": 75,
+			"ataque": 80,
+			"defensa": 55,
+			"velocidad": 35
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/gurdurr.png",
+			"nombre": "Gurdurr",
+			"hp": 85,
+			"ataque": 105,
+			"defensa": 85,
+			"velocidad": 40
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/conkeldurr.png",
+			"nombre": "Conkeldurr",
+			"hp": 105,
+			"ataque": 140,
+			"defensa": 95,
+			"velocidad": 45
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/tympole.png",
+			"nombre": "Tympole",
+			"hp": 50,
+			"ataque": 50,
+			"defensa": 40,
+			"velocidad": 64
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/palpitoad.png",
+			"nombre": "Palpitoad",
+			"hp": 75,
+			"ataque": 65,
+			"defensa": 55,
+			"velocidad": 69
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/seismitoad.png",
+			"nombre": "Seismitoad",
+			"hp": 105,
+			"ataque": 95,
+			"defensa": 75,
+			"velocidad": 74
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/throh.png",
+			"nombre": "Throh",
+			"hp": 120,
+			"ataque": 100,
+			"defensa": 85,
+			"velocidad": 45
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/sawk.png",
+			"nombre": "Sawk",
+			"hp": 75,
+			"ataque": 125,
+			"defensa": 75,
+			"velocidad": 85
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/sewaddle.png",
+			"nombre": "Sewaddle",
+			"hp": 45,
+			"ataque": 53,
+			"defensa": 70,
+			"velocidad": 42
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/swadloon.png",
+			"nombre": "Swadloon",
+			"hp": 55,
+			"ataque": 63,
+			"defensa": 90,
+			"velocidad": 42
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/leavanny.png",
+			"nombre": "Leavanny",
+			"hp": 75,
+			"ataque": 103,
+			"defensa": 80,
+			"velocidad": 92
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/venipede.png",
+			"nombre": "Venipede",
+			"hp": 30,
+			"ataque": 45,
+			"defensa": 59,
+			"velocidad": 57
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/whirlipede.png",
+			"nombre": "Whirlipede",
+			"hp": 40,
+			"ataque": 55,
+			"defensa": 99,
+			"velocidad": 47
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/scolipede.png",
+			"nombre": "Scolipede",
+			"hp": 60,
+			"ataque": 100,
+			"defensa": 89,
+			"velocidad": 112
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/cottonee.png",
+			"nombre": "Cottonee",
+			"hp": 40,
+			"ataque": 27,
+			"defensa": 60,
+			"velocidad": 66
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/whimsicott.png",
+			"nombre": "Whimsicott",
+			"hp": 60,
+			"ataque": 67,
+			"defensa": 85,
+			"velocidad": 116
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/petilil.png",
+			"nombre": "Petilil",
+			"hp": 45,
+			"ataque": 35,
+			"defensa": 50,
+			"velocidad": 30
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/lilligant.png",
+			"nombre": "Lilligant",
+			"hp": 70,
+			"ataque": 60,
+			"defensa": 75,
+			"velocidad": 90
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/basculin-red-striped.png",
+			"nombre": "Basculin",
+			"hp": 70,
+			"ataque": 92,
+			"defensa": 65,
+			"velocidad": 98
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/basculin-blue-striped.png",
+			"nombre": "Basculin",
+			"hp": 70,
+			"ataque": 92,
+			"defensa": 65,
+			"velocidad": 98
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/sandile.png",
+			"nombre": "Sandile",
+			"hp": 50,
+			"ataque": 72,
+			"defensa": 35,
+			"velocidad": 65
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/krokorok.png",
+			"nombre": "Krokorok",
+			"hp": 60,
+			"ataque": 82,
+			"defensa": 45,
+			"velocidad": 74
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/krookodile.png",
+			"nombre": "Krookodile",
+			"hp": 95,
+			"ataque": 117,
+			"defensa": 80,
+			"velocidad": 92
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/darumaka.png",
+			"nombre": "Darumaka",
+			"hp": 70,
+			"ataque": 90,
+			"defensa": 45,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Darumaka",
+			"hp": 70,
+			"ataque": 90,
+			"defensa": 45,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/darmanitan-standard.png",
+			"nombre": "Darmanitan",
+			"hp": 105,
+			"ataque": 140,
+			"defensa": 55,
+			"velocidad": 95
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/darmanitan-zen.png",
+			"nombre": "Darmanitan",
+			"hp": 105,
+			"ataque": 30,
+			"defensa": 105,
+			"velocidad": 55
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Darmanitan",
+			"hp": 105,
+			"ataque": 140,
+			"defensa": 55,
+			"velocidad": 95
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Darmanitan",
+			"hp": 105,
+			"ataque": 160,
+			"defensa": 55,
+			"velocidad": 135
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/maractus.png",
+			"nombre": "Maractus",
+			"hp": 75,
+			"ataque": 86,
+			"defensa": 67,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/dwebble.png",
+			"nombre": "Dwebble",
+			"hp": 50,
+			"ataque": 65,
+			"defensa": 85,
+			"velocidad": 55
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/crustle.png",
+			"nombre": "Crustle",
+			"hp": 70,
+			"ataque": 105,
+			"defensa": 125,
+			"velocidad": 45
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/scraggy.png",
+			"nombre": "Scraggy",
+			"hp": 50,
+			"ataque": 75,
+			"defensa": 70,
+			"velocidad": 48
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/scrafty.png",
+			"nombre": "Scrafty",
+			"hp": 65,
+			"ataque": 90,
+			"defensa": 115,
+			"velocidad": 58
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/sigilyph.png",
+			"nombre": "Sigilyph",
+			"hp": 72,
+			"ataque": 58,
+			"defensa": 80,
+			"velocidad": 97
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/yamask.png",
+			"nombre": "Yamask",
+			"hp": 38,
+			"ataque": 30,
+			"defensa": 85,
+			"velocidad": 30
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Yamask",
+			"hp": 38,
+			"ataque": 55,
+			"defensa": 85,
+			"velocidad": 30
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/cofagrigus.png",
+			"nombre": "Cofagrigus",
+			"hp": 58,
+			"ataque": 50,
+			"defensa": 145,
+			"velocidad": 30
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/tirtouga.png",
+			"nombre": "Tirtouga",
+			"hp": 54,
+			"ataque": 78,
+			"defensa": 103,
+			"velocidad": 22
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/carracosta.png",
+			"nombre": "Carracosta",
+			"hp": 74,
+			"ataque": 108,
+			"defensa": 133,
+			"velocidad": 32
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/archen.png",
+			"nombre": "Archen",
+			"hp": 55,
+			"ataque": 112,
+			"defensa": 45,
+			"velocidad": 70
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/archeops.png",
+			"nombre": "Archeops",
+			"hp": 75,
+			"ataque": 140,
+			"defensa": 65,
+			"velocidad": 110
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/trubbish.png",
+			"nombre": "Trubbish",
+			"hp": 50,
+			"ataque": 50,
+			"defensa": 62,
+			"velocidad": 65
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/garbodor.png",
+			"nombre": "Garbodor",
+			"hp": 80,
+			"ataque": 95,
+			"defensa": 82,
+			"velocidad": 75
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/zorua.png",
+			"nombre": "Zorua",
+			"hp": 40,
+			"ataque": 65,
+			"defensa": 40,
+			"velocidad": 65
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/zoroark.png",
+			"nombre": "Zoroark",
+			"hp": 60,
+			"ataque": 105,
+			"defensa": 60,
+			"velocidad": 105
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/minccino.png",
+			"nombre": "Minccino",
+			"hp": 55,
+			"ataque": 50,
+			"defensa": 40,
+			"velocidad": 75
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/cinccino.png",
+			"nombre": "Cinccino",
+			"hp": 75,
+			"ataque": 95,
+			"defensa": 60,
+			"velocidad": 115
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/gothita.png",
+			"nombre": "Gothita",
+			"hp": 45,
+			"ataque": 30,
+			"defensa": 50,
+			"velocidad": 45
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/gothorita.png",
+			"nombre": "Gothorita",
+			"hp": 60,
+			"ataque": 45,
+			"defensa": 70,
+			"velocidad": 55
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/gothitelle.png",
+			"nombre": "Gothitelle",
+			"hp": 70,
+			"ataque": 55,
+			"defensa": 95,
+			"velocidad": 65
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/solosis.png",
+			"nombre": "Solosis",
+			"hp": 45,
+			"ataque": 30,
+			"defensa": 40,
+			"velocidad": 20
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/duosion.png",
+			"nombre": "Duosion",
+			"hp": 65,
+			"ataque": 40,
+			"defensa": 50,
+			"velocidad": 30
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/reuniclus.png",
+			"nombre": "Reuniclus",
+			"hp": 110,
+			"ataque": 65,
+			"defensa": 75,
+			"velocidad": 30
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/ducklett.png",
+			"nombre": "Ducklett",
+			"hp": 62,
+			"ataque": 44,
+			"defensa": 50,
+			"velocidad": 55
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/swanna.png",
+			"nombre": "Swanna",
+			"hp": 75,
+			"ataque": 87,
+			"defensa": 63,
+			"velocidad": 98
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/vanillite.png",
+			"nombre": "Vanillite",
+			"hp": 36,
+			"ataque": 50,
+			"defensa": 50,
+			"velocidad": 44
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/vanillish.png",
+			"nombre": "Vanillish",
+			"hp": 51,
+			"ataque": 65,
+			"defensa": 65,
+			"velocidad": 59
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/vanilluxe.png",
+			"nombre": "Vanilluxe",
+			"hp": 71,
+			"ataque": 95,
+			"defensa": 85,
+			"velocidad": 79
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/deerling.png",
+			"nombre": "Deerling",
+			"hp": 60,
+			"ataque": 60,
+			"defensa": 50,
+			"velocidad": 75
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/sawsbuck.png",
+			"nombre": "Sawsbuck",
+			"hp": 80,
+			"ataque": 100,
+			"defensa": 70,
+			"velocidad": 95
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/emolga.png",
+			"nombre": "Emolga",
+			"hp": 55,
+			"ataque": 75,
+			"defensa": 60,
+			"velocidad": 103
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/karrablast.png",
+			"nombre": "Karrablast",
+			"hp": 50,
+			"ataque": 75,
+			"defensa": 45,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/escavalier.png",
+			"nombre": "Escavalier",
+			"hp": 70,
+			"ataque": 135,
+			"defensa": 105,
+			"velocidad": 20
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/foongus.png",
+			"nombre": "Foongus",
+			"hp": 69,
+			"ataque": 55,
+			"defensa": 45,
+			"velocidad": 15
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/amoonguss.png",
+			"nombre": "Amoonguss",
+			"hp": 114,
+			"ataque": 85,
+			"defensa": 70,
+			"velocidad": 30
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/frillish.png",
+			"nombre": "Frillish",
+			"hp": 55,
+			"ataque": 40,
+			"defensa": 50,
+			"velocidad": 40
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/jellicent.png",
+			"nombre": "Jellicent",
+			"hp": 100,
+			"ataque": 60,
+			"defensa": 70,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/alomomola.png",
+			"nombre": "Alomomola",
+			"hp": 165,
+			"ataque": 75,
+			"defensa": 80,
+			"velocidad": 65
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/joltik.png",
+			"nombre": "Joltik",
+			"hp": 50,
+			"ataque": 47,
+			"defensa": 50,
+			"velocidad": 65
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/galvantula.png",
+			"nombre": "Galvantula",
+			"hp": 70,
+			"ataque": 77,
+			"defensa": 60,
+			"velocidad": 108
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/ferroseed.png",
+			"nombre": "Ferroseed",
+			"hp": 44,
+			"ataque": 50,
+			"defensa": 91,
+			"velocidad": 10
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/ferrothorn.png",
+			"nombre": "Ferrothorn",
+			"hp": 74,
+			"ataque": 94,
+			"defensa": 131,
+			"velocidad": 20
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/klink.png",
+			"nombre": "Klink",
+			"hp": 40,
+			"ataque": 55,
+			"defensa": 70,
+			"velocidad": 30
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/klang.png",
+			"nombre": "Klang",
+			"hp": 60,
+			"ataque": 80,
+			"defensa": 95,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/klinklang.png",
+			"nombre": "Klinklang",
+			"hp": 60,
+			"ataque": 100,
+			"defensa": 115,
+			"velocidad": 90
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/tynamo.png",
+			"nombre": "Tynamo",
+			"hp": 35,
+			"ataque": 55,
+			"defensa": 40,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/eelektrik.png",
+			"nombre": "Eelektrik",
+			"hp": 65,
+			"ataque": 85,
+			"defensa": 70,
+			"velocidad": 40
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/eelektross.png",
+			"nombre": "Eelektross",
+			"hp": 85,
+			"ataque": 115,
+			"defensa": 80,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/elgyem.png",
+			"nombre": "Elgyem",
+			"hp": 55,
+			"ataque": 55,
+			"defensa": 55,
+			"velocidad": 30
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/beheeyem.png",
+			"nombre": "Beheeyem",
+			"hp": 75,
+			"ataque": 75,
+			"defensa": 75,
+			"velocidad": 40
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/litwick.png",
+			"nombre": "Litwick",
+			"hp": 50,
+			"ataque": 30,
+			"defensa": 55,
+			"velocidad": 20
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/lampent.png",
+			"nombre": "Lampent",
+			"hp": 60,
+			"ataque": 40,
+			"defensa": 60,
+			"velocidad": 55
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/chandelure.png",
+			"nombre": "Chandelure",
+			"hp": 60,
+			"ataque": 55,
+			"defensa": 90,
+			"velocidad": 80
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/axew.png",
+			"nombre": "Axew",
+			"hp": 46,
+			"ataque": 87,
+			"defensa": 60,
+			"velocidad": 57
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/fraxure.png",
+			"nombre": "Fraxure",
+			"hp": 66,
+			"ataque": 117,
+			"defensa": 70,
+			"velocidad": 67
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/haxorus.png",
+			"nombre": "Haxorus",
+			"hp": 76,
+			"ataque": 147,
+			"defensa": 90,
+			"velocidad": 97
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/cubchoo.png",
+			"nombre": "Cubchoo",
+			"hp": 55,
+			"ataque": 70,
+			"defensa": 40,
+			"velocidad": 40
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/beartic.png",
+			"nombre": "Beartic",
+			"hp": 95,
+			"ataque": 130,
+			"defensa": 80,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/cryogonal.png",
+			"nombre": "Cryogonal",
+			"hp": 80,
+			"ataque": 50,
+			"defensa": 50,
+			"velocidad": 105
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/shelmet.png",
+			"nombre": "Shelmet",
+			"hp": 50,
+			"ataque": 40,
+			"defensa": 85,
+			"velocidad": 25
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/accelgor.png",
+			"nombre": "Accelgor",
+			"hp": 80,
+			"ataque": 70,
+			"defensa": 40,
+			"velocidad": 145
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/stunfisk.png",
+			"nombre": "Stunfisk",
+			"hp": 109,
+			"ataque": 66,
+			"defensa": 84,
+			"velocidad": 32
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Stunfisk",
+			"hp": 109,
+			"ataque": 81,
+			"defensa": 99,
+			"velocidad": 32
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/mienfoo.png",
+			"nombre": "Mienfoo",
+			"hp": 45,
+			"ataque": 85,
+			"defensa": 50,
+			"velocidad": 65
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/mienshao.png",
+			"nombre": "Mienshao",
+			"hp": 65,
+			"ataque": 125,
+			"defensa": 60,
+			"velocidad": 105
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/druddigon.png",
+			"nombre": "Druddigon",
+			"hp": 77,
+			"ataque": 120,
+			"defensa": 90,
+			"velocidad": 48
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/golett.png",
+			"nombre": "Golett",
+			"hp": 59,
+			"ataque": 74,
+			"defensa": 50,
+			"velocidad": 35
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/golurk.png",
+			"nombre": "Golurk",
+			"hp": 89,
+			"ataque": 124,
+			"defensa": 80,
+			"velocidad": 55
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/pawniard.png",
+			"nombre": "Pawniard",
+			"hp": 45,
+			"ataque": 85,
+			"defensa": 70,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/bisharp.png",
+			"nombre": "Bisharp",
+			"hp": 65,
+			"ataque": 125,
+			"defensa": 100,
+			"velocidad": 70
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/bouffalant.png",
+			"nombre": "Bouffalant",
+			"hp": 95,
+			"ataque": 110,
+			"defensa": 95,
+			"velocidad": 55
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/rufflet.png",
+			"nombre": "Rufflet",
+			"hp": 70,
+			"ataque": 83,
+			"defensa": 50,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/braviary.png",
+			"nombre": "Braviary",
+			"hp": 100,
+			"ataque": 123,
+			"defensa": 75,
+			"velocidad": 80
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/vullaby.png",
+			"nombre": "Vullaby",
+			"hp": 70,
+			"ataque": 55,
+			"defensa": 75,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/mandibuzz.png",
+			"nombre": "Mandibuzz",
+			"hp": 110,
+			"ataque": 65,
+			"defensa": 105,
+			"velocidad": 80
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/heatmor.png",
+			"nombre": "Heatmor",
+			"hp": 85,
+			"ataque": 97,
+			"defensa": 66,
+			"velocidad": 65
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/durant.png",
+			"nombre": "Durant",
+			"hp": 58,
+			"ataque": 109,
+			"defensa": 112,
+			"velocidad": 109
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/deino.png",
+			"nombre": "Deino",
+			"hp": 52,
+			"ataque": 65,
+			"defensa": 50,
+			"velocidad": 38
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/zweilous.png",
+			"nombre": "Zweilous",
+			"hp": 72,
+			"ataque": 85,
+			"defensa": 70,
+			"velocidad": 58
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/hydreigon.png",
+			"nombre": "Hydreigon",
+			"hp": 92,
+			"ataque": 105,
+			"defensa": 90,
+			"velocidad": 98
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/larvesta.png",
+			"nombre": "Larvesta",
+			"hp": 55,
+			"ataque": 85,
+			"defensa": 55,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/volcarona.png",
+			"nombre": "Volcarona",
+			"hp": 85,
+			"ataque": 60,
+			"defensa": 65,
+			"velocidad": 100
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/cobalion.png",
+			"nombre": "Cobalion",
+			"hp": 91,
+			"ataque": 90,
+			"defensa": 129,
+			"velocidad": 108
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/terrakion.png",
+			"nombre": "Terrakion",
+			"hp": 91,
+			"ataque": 129,
+			"defensa": 90,
+			"velocidad": 108
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/virizion.png",
+			"nombre": "Virizion",
+			"hp": 91,
+			"ataque": 90,
+			"defensa": 72,
+			"velocidad": 108
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/tornadus-incarnate.png",
+			"nombre": "Tornadus",
+			"hp": 79,
+			"ataque": 115,
+			"defensa": 70,
+			"velocidad": 111
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/tornadus-therian.png",
+			"nombre": "Tornadus",
+			"hp": 79,
+			"ataque": 100,
+			"defensa": 80,
+			"velocidad": 121
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/thundurus-incarnate.png",
+			"nombre": "Thundurus",
+			"hp": 79,
+			"ataque": 115,
+			"defensa": 70,
+			"velocidad": 111
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/thundurus-therian.png",
+			"nombre": "Thundurus",
+			"hp": 79,
+			"ataque": 105,
+			"defensa": 70,
+			"velocidad": 101
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/reshiram.png",
+			"nombre": "Reshiram",
+			"hp": 100,
+			"ataque": 120,
+			"defensa": 100,
+			"velocidad": 90
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/zekrom.png",
+			"nombre": "Zekrom",
+			"hp": 100,
+			"ataque": 150,
+			"defensa": 120,
+			"velocidad": 90
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/landorus-incarnate.png",
+			"nombre": "Landorus",
+			"hp": 89,
+			"ataque": 125,
+			"defensa": 90,
+			"velocidad": 101
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/landorus-therian.png",
+			"nombre": "Landorus",
+			"hp": 89,
+			"ataque": 145,
+			"defensa": 90,
+			"velocidad": 91
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/kyurem.png",
+			"nombre": "Kyurem",
+			"hp": 125,
+			"ataque": 130,
+			"defensa": 90,
+			"velocidad": 95
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/kyurem-black.png",
+			"nombre": "Kyurem",
+			"hp": 125,
+			"ataque": 170,
+			"defensa": 100,
+			"velocidad": 95
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/kyurem-white.png",
+			"nombre": "Kyurem",
+			"hp": 125,
+			"ataque": 120,
+			"defensa": 90,
+			"velocidad": 95
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/keldeo-ordinary.png",
+			"nombre": "Keldeo",
+			"hp": 91,
+			"ataque": 72,
+			"defensa": 90,
+			"velocidad": 108
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/keldeo-resolute.png",
+			"nombre": "Keldeo",
+			"hp": 91,
+			"ataque": 72,
+			"defensa": 90,
+			"velocidad": 108
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/meloetta-aria.png",
+			"nombre": "Meloetta",
+			"hp": 100,
+			"ataque": 77,
+			"defensa": 77,
+			"velocidad": 90
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/meloetta-pirouette.png",
+			"nombre": "Meloetta",
+			"hp": 100,
+			"ataque": 128,
+			"defensa": 90,
+			"velocidad": 128
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/genesect.png",
+			"nombre": "Genesect",
+			"hp": 71,
+			"ataque": 120,
+			"defensa": 95,
+			"velocidad": 99
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/chespin.png",
+			"nombre": "Chespin",
+			"hp": 56,
+			"ataque": 61,
+			"defensa": 65,
+			"velocidad": 38
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/quilladin.png",
+			"nombre": "Quilladin",
+			"hp": 61,
+			"ataque": 78,
+			"defensa": 95,
+			"velocidad": 57
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/chesnaught.png",
+			"nombre": "Chesnaught",
+			"hp": 88,
+			"ataque": 107,
+			"defensa": 122,
+			"velocidad": 64
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/fennekin.png",
+			"nombre": "Fennekin",
+			"hp": 40,
+			"ataque": 45,
+			"defensa": 40,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/braixen.png",
+			"nombre": "Braixen",
+			"hp": 59,
+			"ataque": 59,
+			"defensa": 58,
+			"velocidad": 73
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/delphox.png",
+			"nombre": "Delphox",
+			"hp": 75,
+			"ataque": 69,
+			"defensa": 72,
+			"velocidad": 104
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/froakie.png",
+			"nombre": "Froakie",
+			"hp": 41,
+			"ataque": 56,
+			"defensa": 40,
+			"velocidad": 71
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/frogadier.png",
+			"nombre": "Frogadier",
+			"hp": 54,
+			"ataque": 63,
+			"defensa": 52,
+			"velocidad": 97
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/greninja.png",
+			"nombre": "Greninja",
+			"hp": 72,
+			"ataque": 95,
+			"defensa": 67,
+			"velocidad": 122
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/greninja-ash.png",
+			"nombre": "Greninja",
+			"hp": 72,
+			"ataque": 145,
+			"defensa": 67,
+			"velocidad": 132
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/bunnelby.png",
+			"nombre": "Bunnelby",
+			"hp": 38,
+			"ataque": 36,
+			"defensa": 38,
+			"velocidad": 57
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/diggersby.png",
+			"nombre": "Diggersby",
+			"hp": 85,
+			"ataque": 56,
+			"defensa": 77,
+			"velocidad": 78
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/fletchling.png",
+			"nombre": "Fletchling",
+			"hp": 45,
+			"ataque": 50,
+			"defensa": 43,
+			"velocidad": 62
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/fletchinder.png",
+			"nombre": "Fletchinder",
+			"hp": 62,
+			"ataque": 73,
+			"defensa": 55,
+			"velocidad": 84
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/talonflame.png",
+			"nombre": "Talonflame",
+			"hp": 78,
+			"ataque": 81,
+			"defensa": 71,
+			"velocidad": 126
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/scatterbug.png",
+			"nombre": "Scatterbug",
+			"hp": 38,
+			"ataque": 35,
+			"defensa": 40,
+			"velocidad": 35
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/spewpa.png",
+			"nombre": "Spewpa",
+			"hp": 45,
+			"ataque": 22,
+			"defensa": 60,
+			"velocidad": 29
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/vivillon.png",
+			"nombre": "Vivillon",
+			"hp": 80,
+			"ataque": 52,
+			"defensa": 50,
+			"velocidad": 89
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/litleo.png",
+			"nombre": "Litleo",
+			"hp": 62,
+			"ataque": 50,
+			"defensa": 58,
+			"velocidad": 72
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/pyroar.png",
+			"nombre": "Pyroar",
+			"hp": 86,
+			"ataque": 68,
+			"defensa": 72,
+			"velocidad": 106
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/flabebe.png",
+			"nombre": "Flabébé",
+			"hp": 44,
+			"ataque": 38,
+			"defensa": 39,
+			"velocidad": 42
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/floette.png",
+			"nombre": "Floette",
+			"hp": 54,
+			"ataque": 45,
+			"defensa": 47,
+			"velocidad": 52
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/florges.png",
+			"nombre": "Florges",
+			"hp": 78,
+			"ataque": 65,
+			"defensa": 68,
+			"velocidad": 75
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/skiddo.png",
+			"nombre": "Skiddo",
+			"hp": 66,
+			"ataque": 65,
+			"defensa": 48,
+			"velocidad": 52
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/gogoat.png",
+			"nombre": "Gogoat",
+			"hp": 123,
+			"ataque": 100,
+			"defensa": 62,
+			"velocidad": 68
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/pancham.png",
+			"nombre": "Pancham",
+			"hp": 67,
+			"ataque": 82,
+			"defensa": 62,
+			"velocidad": 43
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/pangoro.png",
+			"nombre": "Pangoro",
+			"hp": 95,
+			"ataque": 124,
+			"defensa": 78,
+			"velocidad": 58
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/furfrou.png",
+			"nombre": "Furfrou",
+			"hp": 75,
+			"ataque": 80,
+			"defensa": 60,
+			"velocidad": 102
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/espurr.png",
+			"nombre": "Espurr",
+			"hp": 62,
+			"ataque": 48,
+			"defensa": 54,
+			"velocidad": 68
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/meowstic-male.png",
+			"nombre": "Meowstic",
+			"hp": 74,
+			"ataque": 48,
+			"defensa": 76,
+			"velocidad": 104
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/meowstic-female.png",
+			"nombre": "Meowstic",
+			"hp": 74,
+			"ataque": 48,
+			"defensa": 76,
+			"velocidad": 104
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/honedge.png",
+			"nombre": "Honedge",
+			"hp": 45,
+			"ataque": 80,
+			"defensa": 100,
+			"velocidad": 28
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/doublade.png",
+			"nombre": "Doublade",
+			"hp": 59,
+			"ataque": 110,
+			"defensa": 150,
+			"velocidad": 35
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/aegislash-blade.png",
+			"nombre": "Aegislash",
+			"hp": 60,
+			"ataque": 150,
+			"defensa": 50,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/aegislash-shield.png",
+			"nombre": "Aegislash",
+			"hp": 60,
+			"ataque": 50,
+			"defensa": 150,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/spritzee.png",
+			"nombre": "Spritzee",
+			"hp": 78,
+			"ataque": 52,
+			"defensa": 60,
+			"velocidad": 23
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/aromatisse.png",
+			"nombre": "Aromatisse",
+			"hp": 101,
+			"ataque": 72,
+			"defensa": 72,
+			"velocidad": 29
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/swirlix.png",
+			"nombre": "Swirlix",
+			"hp": 62,
+			"ataque": 48,
+			"defensa": 66,
+			"velocidad": 49
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/slurpuff.png",
+			"nombre": "Slurpuff",
+			"hp": 82,
+			"ataque": 80,
+			"defensa": 86,
+			"velocidad": 72
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/inkay.png",
+			"nombre": "Inkay",
+			"hp": 53,
+			"ataque": 54,
+			"defensa": 53,
+			"velocidad": 45
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/malamar.png",
+			"nombre": "Malamar",
+			"hp": 86,
+			"ataque": 92,
+			"defensa": 88,
+			"velocidad": 73
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/binacle.png",
+			"nombre": "Binacle",
+			"hp": 42,
+			"ataque": 52,
+			"defensa": 67,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/barbaracle.png",
+			"nombre": "Barbaracle",
+			"hp": 72,
+			"ataque": 105,
+			"defensa": 115,
+			"velocidad": 68
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/skrelp.png",
+			"nombre": "Skrelp",
+			"hp": 50,
+			"ataque": 60,
+			"defensa": 60,
+			"velocidad": 30
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/dragalge.png",
+			"nombre": "Dragalge",
+			"hp": 65,
+			"ataque": 75,
+			"defensa": 90,
+			"velocidad": 44
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/clauncher.png",
+			"nombre": "Clauncher",
+			"hp": 50,
+			"ataque": 53,
+			"defensa": 62,
+			"velocidad": 44
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/clawitzer.png",
+			"nombre": "Clawitzer",
+			"hp": 71,
+			"ataque": 73,
+			"defensa": 88,
+			"velocidad": 59
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/helioptile.png",
+			"nombre": "Helioptile",
+			"hp": 44,
+			"ataque": 38,
+			"defensa": 33,
+			"velocidad": 70
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/heliolisk.png",
+			"nombre": "Heliolisk",
+			"hp": 62,
+			"ataque": 55,
+			"defensa": 52,
+			"velocidad": 109
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/tyrunt.png",
+			"nombre": "Tyrunt",
+			"hp": 58,
+			"ataque": 89,
+			"defensa": 77,
+			"velocidad": 48
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/tyrantrum.png",
+			"nombre": "Tyrantrum",
+			"hp": 82,
+			"ataque": 121,
+			"defensa": 119,
+			"velocidad": 71
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/amaura.png",
+			"nombre": "Amaura",
+			"hp": 77,
+			"ataque": 59,
+			"defensa": 50,
+			"velocidad": 46
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/aurorus.png",
+			"nombre": "Aurorus",
+			"hp": 123,
+			"ataque": 77,
+			"defensa": 72,
+			"velocidad": 58
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/sylveon.png",
+			"nombre": "Sylveon",
+			"hp": 95,
+			"ataque": 65,
+			"defensa": 65,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/hawlucha.png",
+			"nombre": "Hawlucha",
+			"hp": 78,
+			"ataque": 92,
+			"defensa": 75,
+			"velocidad": 118
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/dedenne.png",
+			"nombre": "Dedenne",
+			"hp": 67,
+			"ataque": 58,
+			"defensa": 57,
+			"velocidad": 101
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/carbink.png",
+			"nombre": "Carbink",
+			"hp": 50,
+			"ataque": 50,
+			"defensa": 150,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/goomy.png",
+			"nombre": "Goomy",
+			"hp": 45,
+			"ataque": 50,
+			"defensa": 35,
+			"velocidad": 40
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/sliggoo.png",
+			"nombre": "Sliggoo",
+			"hp": 68,
+			"ataque": 75,
+			"defensa": 53,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/goodra.png",
+			"nombre": "Goodra",
+			"hp": 90,
+			"ataque": 100,
+			"defensa": 70,
+			"velocidad": 80
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/klefki.png",
+			"nombre": "Klefki",
+			"hp": 57,
+			"ataque": 80,
+			"defensa": 91,
+			"velocidad": 75
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/phantump.png",
+			"nombre": "Phantump",
+			"hp": 43,
+			"ataque": 70,
+			"defensa": 48,
+			"velocidad": 38
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/trevenant.png",
+			"nombre": "Trevenant",
+			"hp": 85,
+			"ataque": 110,
+			"defensa": 76,
+			"velocidad": 56
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/pumpkaboo-average.png",
+			"nombre": "Pumpkaboo",
+			"hp": 49,
+			"ataque": 66,
+			"defensa": 70,
+			"velocidad": 51
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/pumpkaboo-small.png",
+			"nombre": "Pumpkaboo",
+			"hp": 44,
+			"ataque": 66,
+			"defensa": 70,
+			"velocidad": 56
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/pumpkaboo-large.png",
+			"nombre": "Pumpkaboo",
+			"hp": 54,
+			"ataque": 66,
+			"defensa": 70,
+			"velocidad": 46
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/pumpkaboo-super.png",
+			"nombre": "Pumpkaboo",
+			"hp": 59,
+			"ataque": 66,
+			"defensa": 70,
+			"velocidad": 41
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/gourgeist-average.png",
+			"nombre": "Gourgeist",
+			"hp": 65,
+			"ataque": 90,
+			"defensa": 122,
+			"velocidad": 84
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/gourgeist-small.png",
+			"nombre": "Gourgeist",
+			"hp": 55,
+			"ataque": 85,
+			"defensa": 122,
+			"velocidad": 99
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/gourgeist-large.png",
+			"nombre": "Gourgeist",
+			"hp": 75,
+			"ataque": 95,
+			"defensa": 122,
+			"velocidad": 69
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/gourgeist-super.png",
+			"nombre": "Gourgeist",
+			"hp": 85,
+			"ataque": 100,
+			"defensa": 122,
+			"velocidad": 54
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/bergmite.png",
+			"nombre": "Bergmite",
+			"hp": 55,
+			"ataque": 69,
+			"defensa": 85,
+			"velocidad": 28
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/avalugg.png",
+			"nombre": "Avalugg",
+			"hp": 95,
+			"ataque": 117,
+			"defensa": 184,
+			"velocidad": 28
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/noibat.png",
+			"nombre": "Noibat",
+			"hp": 40,
+			"ataque": 30,
+			"defensa": 35,
+			"velocidad": 55
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/noivern.png",
+			"nombre": "Noivern",
+			"hp": 85,
+			"ataque": 70,
+			"defensa": 80,
+			"velocidad": 123
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/xerneas.png",
+			"nombre": "Xerneas",
+			"hp": 126,
+			"ataque": 131,
+			"defensa": 95,
+			"velocidad": 99
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/yveltal.png",
+			"nombre": "Yveltal",
+			"hp": 126,
+			"ataque": 131,
+			"defensa": 95,
+			"velocidad": 99
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/zygarde-50.png",
+			"nombre": "Zygarde",
+			"hp": 108,
+			"ataque": 100,
+			"defensa": 121,
+			"velocidad": 95
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/zygarde-10.png",
+			"nombre": "Zygarde",
+			"hp": 54,
+			"ataque": 100,
+			"defensa": 71,
+			"velocidad": 115
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/zygarde-complete.png",
+			"nombre": "Zygarde",
+			"hp": 216,
+			"ataque": 100,
+			"defensa": 121,
+			"velocidad": 85
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/diancie.png",
+			"nombre": "Diancie",
+			"hp": 50,
+			"ataque": 100,
+			"defensa": 150,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/diancie-mega.png",
+			"nombre": "Diancie",
+			"hp": 50,
+			"ataque": 160,
+			"defensa": 110,
+			"velocidad": 110
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/hoopa-confined.png",
+			"nombre": "Hoopa",
+			"hp": 80,
+			"ataque": 110,
+			"defensa": 60,
+			"velocidad": 70
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/hoopa-unbound.png",
+			"nombre": "Hoopa",
+			"hp": 80,
+			"ataque": 160,
+			"defensa": 60,
+			"velocidad": 80
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/volcanion.png",
+			"nombre": "Volcanion",
+			"hp": 80,
+			"ataque": 110,
+			"defensa": 120,
+			"velocidad": 70
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/rowlet.png",
+			"nombre": "Rowlet",
+			"hp": 68,
+			"ataque": 55,
+			"defensa": 55,
+			"velocidad": 42
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/dartrix.png",
+			"nombre": "Dartrix",
+			"hp": 78,
+			"ataque": 75,
+			"defensa": 75,
+			"velocidad": 52
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/decidueye.png",
+			"nombre": "Decidueye",
+			"hp": 78,
+			"ataque": 107,
+			"defensa": 75,
+			"velocidad": 70
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/litten.png",
+			"nombre": "Litten",
+			"hp": 45,
+			"ataque": 65,
+			"defensa": 40,
+			"velocidad": 70
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/torracat.png",
+			"nombre": "Torracat",
+			"hp": 65,
+			"ataque": 85,
+			"defensa": 50,
+			"velocidad": 90
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/incineroar.png",
+			"nombre": "Incineroar",
+			"hp": 95,
+			"ataque": 115,
+			"defensa": 90,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/popplio.png",
+			"nombre": "Popplio",
+			"hp": 50,
+			"ataque": 54,
+			"defensa": 54,
+			"velocidad": 40
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/brionne.png",
+			"nombre": "Brionne",
+			"hp": 60,
+			"ataque": 69,
+			"defensa": 69,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/primarina.png",
+			"nombre": "Primarina",
+			"hp": 80,
+			"ataque": 74,
+			"defensa": 74,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/pikipek.png",
+			"nombre": "Pikipek",
+			"hp": 35,
+			"ataque": 75,
+			"defensa": 30,
+			"velocidad": 65
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/trumbeak.png",
+			"nombre": "Trumbeak",
+			"hp": 55,
+			"ataque": 85,
+			"defensa": 50,
+			"velocidad": 75
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/toucannon.png",
+			"nombre": "Toucannon",
+			"hp": 80,
+			"ataque": 120,
+			"defensa": 75,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/yungoos.png",
+			"nombre": "Yungoos",
+			"hp": 48,
+			"ataque": 70,
+			"defensa": 30,
+			"velocidad": 45
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/gumshoos.png",
+			"nombre": "Gumshoos",
+			"hp": 88,
+			"ataque": 110,
+			"defensa": 60,
+			"velocidad": 45
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/grubbin.png",
+			"nombre": "Grubbin",
+			"hp": 47,
+			"ataque": 62,
+			"defensa": 45,
+			"velocidad": 46
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/charjabug.png",
+			"nombre": "Charjabug",
+			"hp": 57,
+			"ataque": 82,
+			"defensa": 95,
+			"velocidad": 36
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/vikavolt.png",
+			"nombre": "Vikavolt",
+			"hp": 77,
+			"ataque": 70,
+			"defensa": 90,
+			"velocidad": 43
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/crabrawler.png",
+			"nombre": "Crabrawler",
+			"hp": 47,
+			"ataque": 82,
+			"defensa": 57,
+			"velocidad": 63
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/crabominable.png",
+			"nombre": "Crabominable",
+			"hp": 97,
+			"ataque": 132,
+			"defensa": 77,
+			"velocidad": 43
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/oricorio-baile.png",
+			"nombre": "Oricorio",
+			"hp": 75,
+			"ataque": 70,
+			"defensa": 70,
+			"velocidad": 93
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/oricorio-pom-pom.png",
+			"nombre": "Oricorio",
+			"hp": 75,
+			"ataque": 70,
+			"defensa": 70,
+			"velocidad": 93
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/oricorio-pau.png",
+			"nombre": "Oricorio",
+			"hp": 75,
+			"ataque": 70,
+			"defensa": 70,
+			"velocidad": 93
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/oricorio-sensu.png",
+			"nombre": "Oricorio",
+			"hp": 75,
+			"ataque": 70,
+			"defensa": 70,
+			"velocidad": 93
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/cutiefly.png",
+			"nombre": "Cutiefly",
+			"hp": 40,
+			"ataque": 45,
+			"defensa": 40,
+			"velocidad": 84
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/ribombee.png",
+			"nombre": "Ribombee",
+			"hp": 60,
+			"ataque": 55,
+			"defensa": 60,
+			"velocidad": 124
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/rockruff.png",
+			"nombre": "Rockruff",
+			"hp": 45,
+			"ataque": 65,
+			"defensa": 40,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/rockruff-own-tempo.png",
+			"nombre": "Rockruff",
+			"hp": 45,
+			"ataque": 65,
+			"defensa": 40,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/lycanroc-midday.png",
+			"nombre": "Lycanroc",
+			"hp": 75,
+			"ataque": 115,
+			"defensa": 65,
+			"velocidad": 112
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/lycanroc-midnight.png",
+			"nombre": "Lycanroc",
+			"hp": 85,
+			"ataque": 115,
+			"defensa": 75,
+			"velocidad": 82
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/lycanroc-dusk.png",
+			"nombre": "Lycanroc",
+			"hp": 75,
+			"ataque": 117,
+			"defensa": 65,
+			"velocidad": 110
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/wishiwashi-solo.png",
+			"nombre": "Wishiwashi",
+			"hp": 45,
+			"ataque": 20,
+			"defensa": 20,
+			"velocidad": 40
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/wishiwashi-school.png",
+			"nombre": "Wishiwashi",
+			"hp": 45,
+			"ataque": 140,
+			"defensa": 130,
+			"velocidad": 30
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/mareanie.png",
+			"nombre": "Mareanie",
+			"hp": 50,
+			"ataque": 53,
+			"defensa": 62,
+			"velocidad": 45
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/toxapex.png",
+			"nombre": "Toxapex",
+			"hp": 50,
+			"ataque": 63,
+			"defensa": 152,
+			"velocidad": 35
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/mudbray.png",
+			"nombre": "Mudbray",
+			"hp": 70,
+			"ataque": 100,
+			"defensa": 70,
+			"velocidad": 45
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/mudsdale.png",
+			"nombre": "Mudsdale",
+			"hp": 100,
+			"ataque": 125,
+			"defensa": 100,
+			"velocidad": 35
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/dewpider.png",
+			"nombre": "Dewpider",
+			"hp": 38,
+			"ataque": 40,
+			"defensa": 52,
+			"velocidad": 27
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/araquanid.png",
+			"nombre": "Araquanid",
+			"hp": 68,
+			"ataque": 70,
+			"defensa": 92,
+			"velocidad": 42
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/fomantis.png",
+			"nombre": "Fomantis",
+			"hp": 40,
+			"ataque": 55,
+			"defensa": 35,
+			"velocidad": 35
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/lurantis.png",
+			"nombre": "Lurantis",
+			"hp": 70,
+			"ataque": 105,
+			"defensa": 90,
+			"velocidad": 45
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/morelull.png",
+			"nombre": "Morelull",
+			"hp": 40,
+			"ataque": 35,
+			"defensa": 55,
+			"velocidad": 15
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/shiinotic.png",
+			"nombre": "Shiinotic",
+			"hp": 60,
+			"ataque": 45,
+			"defensa": 80,
+			"velocidad": 30
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/salandit.png",
+			"nombre": "Salandit",
+			"hp": 48,
+			"ataque": 44,
+			"defensa": 40,
+			"velocidad": 77
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/salazzle.png",
+			"nombre": "Salazzle",
+			"hp": 68,
+			"ataque": 64,
+			"defensa": 60,
+			"velocidad": 117
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/stufful.png",
+			"nombre": "Stufful",
+			"hp": 70,
+			"ataque": 75,
+			"defensa": 50,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/bewear.png",
+			"nombre": "Bewear",
+			"hp": 120,
+			"ataque": 125,
+			"defensa": 80,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/bounsweet.png",
+			"nombre": "Bounsweet",
+			"hp": 42,
+			"ataque": 30,
+			"defensa": 38,
+			"velocidad": 32
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/steenee.png",
+			"nombre": "Steenee",
+			"hp": 52,
+			"ataque": 40,
+			"defensa": 48,
+			"velocidad": 62
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/tsareena.png",
+			"nombre": "Tsareena",
+			"hp": 72,
+			"ataque": 120,
+			"defensa": 98,
+			"velocidad": 72
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/comfey.png",
+			"nombre": "Comfey",
+			"hp": 51,
+			"ataque": 52,
+			"defensa": 90,
+			"velocidad": 100
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/oranguru.png",
+			"nombre": "Oranguru",
+			"hp": 90,
+			"ataque": 60,
+			"defensa": 80,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/passimian.png",
+			"nombre": "Passimian",
+			"hp": 100,
+			"ataque": 120,
+			"defensa": 90,
+			"velocidad": 80
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/wimpod.png",
+			"nombre": "Wimpod",
+			"hp": 25,
+			"ataque": 35,
+			"defensa": 40,
+			"velocidad": 80
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/golisopod.png",
+			"nombre": "Golisopod",
+			"hp": 75,
+			"ataque": 125,
+			"defensa": 140,
+			"velocidad": 40
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/sandygast.png",
+			"nombre": "Sandygast",
+			"hp": 55,
+			"ataque": 55,
+			"defensa": 80,
+			"velocidad": 15
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/palossand.png",
+			"nombre": "Palossand",
+			"hp": 85,
+			"ataque": 75,
+			"defensa": 110,
+			"velocidad": 35
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/pyukumuku.png",
+			"nombre": "Pyukumuku",
+			"hp": 55,
+			"ataque": 60,
+			"defensa": 130,
+			"velocidad": 5
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/type-null.png",
+			"nombre": "Type: Null",
+			"hp": 95,
+			"ataque": 95,
+			"defensa": 95,
+			"velocidad": 59
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/silvally.png",
+			"nombre": "Silvally",
+			"hp": 95,
+			"ataque": 95,
+			"defensa": 95,
+			"velocidad": 95
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/minior-meteor.png",
+			"nombre": "Minior",
+			"hp": 60,
+			"ataque": 60,
+			"defensa": 100,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/minior-core.png",
+			"nombre": "Minior",
+			"hp": 60,
+			"ataque": 100,
+			"defensa": 60,
+			"velocidad": 120
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/komala.png",
+			"nombre": "Komala",
+			"hp": 65,
+			"ataque": 115,
+			"defensa": 65,
+			"velocidad": 65
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/turtonator.png",
+			"nombre": "Turtonator",
+			"hp": 60,
+			"ataque": 78,
+			"defensa": 135,
+			"velocidad": 36
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/togedemaru.png",
+			"nombre": "Togedemaru",
+			"hp": 65,
+			"ataque": 98,
+			"defensa": 63,
+			"velocidad": 96
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/mimikyu.png",
+			"nombre": "Mimikyu",
+			"hp": 55,
+			"ataque": 90,
+			"defensa": 80,
+			"velocidad": 96
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/bruxish.png",
+			"nombre": "Bruxish",
+			"hp": 68,
+			"ataque": 105,
+			"defensa": 70,
+			"velocidad": 92
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/drampa.png",
+			"nombre": "Drampa",
+			"hp": 78,
+			"ataque": 60,
+			"defensa": 85,
+			"velocidad": 36
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/dhelmise.png",
+			"nombre": "Dhelmise",
+			"hp": 70,
+			"ataque": 131,
+			"defensa": 100,
+			"velocidad": 40
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/jangmo-o.png",
+			"nombre": "Jangmo-o",
+			"hp": 45,
+			"ataque": 55,
+			"defensa": 65,
+			"velocidad": 45
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/hakamo-o.png",
+			"nombre": "Hakamo-o",
+			"hp": 55,
+			"ataque": 75,
+			"defensa": 90,
+			"velocidad": 65
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/kommo-o.png",
+			"nombre": "Kommo-o",
+			"hp": 75,
+			"ataque": 110,
+			"defensa": 125,
+			"velocidad": 85
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/tapu-koko.png",
+			"nombre": "Tapu Koko",
+			"hp": 70,
+			"ataque": 115,
+			"defensa": 85,
+			"velocidad": 130
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/tapu-lele.png",
+			"nombre": "Tapu Lele",
+			"hp": 70,
+			"ataque": 85,
+			"defensa": 75,
+			"velocidad": 95
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/tapu-bulu.png",
+			"nombre": "Tapu Bulu",
+			"hp": 70,
+			"ataque": 130,
+			"defensa": 115,
+			"velocidad": 75
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/tapu-fini.png",
+			"nombre": "Tapu Fini",
+			"hp": 70,
+			"ataque": 75,
+			"defensa": 115,
+			"velocidad": 85
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/cosmog.png",
+			"nombre": "Cosmog",
+			"hp": 43,
+			"ataque": 29,
+			"defensa": 31,
+			"velocidad": 37
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/cosmoem.png",
+			"nombre": "Cosmoem",
+			"hp": 43,
+			"ataque": 29,
+			"defensa": 131,
+			"velocidad": 37
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/solgaleo.png",
+			"nombre": "Solgaleo",
+			"hp": 137,
+			"ataque": 137,
+			"defensa": 107,
+			"velocidad": 97
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/lunala.png",
+			"nombre": "Lunala",
+			"hp": 137,
+			"ataque": 113,
+			"defensa": 89,
+			"velocidad": 97
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/nihilego.png",
+			"nombre": "Nihilego",
+			"hp": 109,
+			"ataque": 53,
+			"defensa": 47,
+			"velocidad": 103
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/buzzwole.png",
+			"nombre": "Buzzwole",
+			"hp": 107,
+			"ataque": 139,
+			"defensa": 139,
+			"velocidad": 79
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/pheromosa.png",
+			"nombre": "Pheromosa",
+			"hp": 71,
+			"ataque": 137,
+			"defensa": 37,
+			"velocidad": 151
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/xurkitree.png",
+			"nombre": "Xurkitree",
+			"hp": 83,
+			"ataque": 89,
+			"defensa": 71,
+			"velocidad": 83
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/celesteela.png",
+			"nombre": "Celesteela",
+			"hp": 97,
+			"ataque": 101,
+			"defensa": 103,
+			"velocidad": 61
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/kartana.png",
+			"nombre": "Kartana",
+			"hp": 59,
+			"ataque": 181,
+			"defensa": 131,
+			"velocidad": 109
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/guzzlord.png",
+			"nombre": "Guzzlord",
+			"hp": 223,
+			"ataque": 101,
+			"defensa": 53,
+			"velocidad": 43
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/necrozma.png",
+			"nombre": "Necrozma",
+			"hp": 97,
+			"ataque": 107,
+			"defensa": 101,
+			"velocidad": 79
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/necrozma-dusk-mane.png",
+			"nombre": "Necrozma",
+			"hp": 97,
+			"ataque": 157,
+			"defensa": 127,
+			"velocidad": 77
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/necrozma-dawn-wings.png",
+			"nombre": "Necrozma",
+			"hp": 97,
+			"ataque": 113,
+			"defensa": 109,
+			"velocidad": 77
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/necrozma-ultra.png",
+			"nombre": "Necrozma",
+			"hp": 97,
+			"ataque": 167,
+			"defensa": 97,
+			"velocidad": 129
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/magearna.png",
+			"nombre": "Magearna",
+			"hp": 80,
+			"ataque": 95,
+			"defensa": 115,
+			"velocidad": 65
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/marshadow.png",
+			"nombre": "Marshadow",
+			"hp": 90,
+			"ataque": 125,
+			"defensa": 80,
+			"velocidad": 125
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/poipole.png",
+			"nombre": "Poipole",
+			"hp": 67,
+			"ataque": 73,
+			"defensa": 67,
+			"velocidad": 73
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/naganadel.png",
+			"nombre": "Naganadel",
+			"hp": 73,
+			"ataque": 73,
+			"defensa": 73,
+			"velocidad": 121
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/stakataka.png",
+			"nombre": "Stakataka",
+			"hp": 61,
+			"ataque": 131,
+			"defensa": 211,
+			"velocidad": 13
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/blacephalon.png",
+			"nombre": "Blacephalon",
+			"hp": 53,
+			"ataque": 127,
+			"defensa": 53,
+			"velocidad": 107
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/zeraora.png",
+			"nombre": "Zeraora",
+			"hp": 88,
+			"ataque": 112,
+			"defensa": 75,
+			"velocidad": 143
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/meltan.png",
+			"nombre": "Meltan",
+			"hp": 46,
+			"ataque": 65,
+			"defensa": 65,
+			"velocidad": 34
+		},
+		{
+			"img": "https://img.pokemondb.net/sprites/sun-moon/icon/melmetal.png",
+			"nombre": "Melmetal",
+			"hp": 135,
+			"ataque": 143,
+			"defensa": 143,
+			"velocidad": 34
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Grookey",
+			"hp": 50,
+			"ataque": 65,
+			"defensa": 50,
+			"velocidad": 65
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Thwackey",
+			"hp": 70,
+			"ataque": 85,
+			"defensa": 70,
+			"velocidad": 80
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Rillaboom",
+			"hp": 100,
+			"ataque": 125,
+			"defensa": 90,
+			"velocidad": 85
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Scorbunny",
+			"hp": 50,
+			"ataque": 71,
+			"defensa": 40,
+			"velocidad": 69
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Raboot",
+			"hp": 65,
+			"ataque": 86,
+			"defensa": 60,
+			"velocidad": 94
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Cinderace",
+			"hp": 80,
+			"ataque": 116,
+			"defensa": 75,
+			"velocidad": 119
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Sobble",
+			"hp": 50,
+			"ataque": 40,
+			"defensa": 40,
+			"velocidad": 70
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Drizzile",
+			"hp": 65,
+			"ataque": 60,
+			"defensa": 55,
+			"velocidad": 90
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Inteleon",
+			"hp": 70,
+			"ataque": 85,
+			"defensa": 65,
+			"velocidad": 120
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Skwovet",
+			"hp": 70,
+			"ataque": 55,
+			"defensa": 55,
+			"velocidad": 25
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Greedent",
+			"hp": 120,
+			"ataque": 95,
+			"defensa": 95,
+			"velocidad": 20
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Rookidee",
+			"hp": 38,
+			"ataque": 47,
+			"defensa": 35,
+			"velocidad": 57
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Corvisquire",
+			"hp": 68,
+			"ataque": 67,
+			"defensa": 55,
+			"velocidad": 77
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Corviknight",
+			"hp": 98,
+			"ataque": 87,
+			"defensa": 105,
+			"velocidad": 67
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Blipbug",
+			"hp": 25,
+			"ataque": 20,
+			"defensa": 20,
+			"velocidad": 45
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Dottler",
+			"hp": 50,
+			"ataque": 35,
+			"defensa": 80,
+			"velocidad": 30
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Orbeetle",
+			"hp": 60,
+			"ataque": 45,
+			"defensa": 110,
+			"velocidad": 90
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Nickit",
+			"hp": 40,
+			"ataque": 28,
+			"defensa": 28,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Thievul",
+			"hp": 70,
+			"ataque": 58,
+			"defensa": 58,
+			"velocidad": 90
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Gossifleur",
+			"hp": 40,
+			"ataque": 40,
+			"defensa": 60,
+			"velocidad": 10
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Eldegoss",
+			"hp": 60,
+			"ataque": 50,
+			"defensa": 90,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Wooloo",
+			"hp": 42,
+			"ataque": 40,
+			"defensa": 55,
+			"velocidad": 48
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Dubwool",
+			"hp": 72,
+			"ataque": 80,
+			"defensa": 100,
+			"velocidad": 88
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Chewtle",
+			"hp": 50,
+			"ataque": 64,
+			"defensa": 50,
+			"velocidad": 44
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Drednaw",
+			"hp": 90,
+			"ataque": 115,
+			"defensa": 90,
+			"velocidad": 74
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Yamper",
+			"hp": 59,
+			"ataque": 45,
+			"defensa": 50,
+			"velocidad": 26
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Boltund",
+			"hp": 69,
+			"ataque": 90,
+			"defensa": 60,
+			"velocidad": 121
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Rolycoly",
+			"hp": 30,
+			"ataque": 40,
+			"defensa": 50,
+			"velocidad": 30
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Carkol",
+			"hp": 80,
+			"ataque": 60,
+			"defensa": 90,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Coalossal",
+			"hp": 110,
+			"ataque": 80,
+			"defensa": 120,
+			"velocidad": 30
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Applin",
+			"hp": 40,
+			"ataque": 40,
+			"defensa": 80,
+			"velocidad": 20
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Flapple",
+			"hp": 70,
+			"ataque": 110,
+			"defensa": 80,
+			"velocidad": 70
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Appletun",
+			"hp": 110,
+			"ataque": 85,
+			"defensa": 80,
+			"velocidad": 30
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Silicobra",
+			"hp": 52,
+			"ataque": 57,
+			"defensa": 75,
+			"velocidad": 46
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Sandaconda",
+			"hp": 72,
+			"ataque": 107,
+			"defensa": 125,
+			"velocidad": 71
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Cramorant",
+			"hp": 70,
+			"ataque": 85,
+			"defensa": 55,
+			"velocidad": 85
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Arrokuda",
+			"hp": 41,
+			"ataque": 63,
+			"defensa": 40,
+			"velocidad": 66
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Barraskewda",
+			"hp": 61,
+			"ataque": 123,
+			"defensa": 60,
+			"velocidad": 136
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Toxel",
+			"hp": 40,
+			"ataque": 38,
+			"defensa": 35,
+			"velocidad": 40
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Toxtricity",
+			"hp": 75,
+			"ataque": 98,
+			"defensa": 70,
+			"velocidad": 75
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Toxtricity",
+			"hp": 75,
+			"ataque": 98,
+			"defensa": 70,
+			"velocidad": 75
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Sizzlipede",
+			"hp": 50,
+			"ataque": 65,
+			"defensa": 45,
+			"velocidad": 45
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Centiskorch",
+			"hp": 100,
+			"ataque": 115,
+			"defensa": 65,
+			"velocidad": 65
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Clobbopus",
+			"hp": 50,
+			"ataque": 68,
+			"defensa": 60,
+			"velocidad": 32
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Grapploct",
+			"hp": 80,
+			"ataque": 118,
+			"defensa": 90,
+			"velocidad": 42
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Sinistea",
+			"hp": 40,
+			"ataque": 45,
+			"defensa": 45,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Polteageist",
+			"hp": 60,
+			"ataque": 65,
+			"defensa": 65,
+			"velocidad": 70
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Hatenna",
+			"hp": 42,
+			"ataque": 30,
+			"defensa": 45,
+			"velocidad": 39
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Hattrem",
+			"hp": 57,
+			"ataque": 40,
+			"defensa": 65,
+			"velocidad": 49
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Hatterene",
+			"hp": 57,
+			"ataque": 90,
+			"defensa": 95,
+			"velocidad": 29
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Impidimp",
+			"hp": 45,
+			"ataque": 45,
+			"defensa": 30,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Morgrem",
+			"hp": 65,
+			"ataque": 60,
+			"defensa": 45,
+			"velocidad": 70
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Grimmsnarl",
+			"hp": 95,
+			"ataque": 120,
+			"defensa": 65,
+			"velocidad": 60
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Obstagoon",
+			"hp": 93,
+			"ataque": 90,
+			"defensa": 101,
+			"velocidad": 95
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Perrserker",
+			"hp": 70,
+			"ataque": 110,
+			"defensa": 100,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Cursola",
+			"hp": 60,
+			"ataque": 95,
+			"defensa": 50,
+			"velocidad": 30
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Sirfetch'd",
+			"hp": 62,
+			"ataque": 135,
+			"defensa": 95,
+			"velocidad": 65
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Mr. Rime",
+			"hp": 80,
+			"ataque": 85,
+			"defensa": 75,
+			"velocidad": 70
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Runerigus",
+			"hp": 58,
+			"ataque": 95,
+			"defensa": 145,
+			"velocidad": 30
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Milcery",
+			"hp": 45,
+			"ataque": 40,
+			"defensa": 40,
+			"velocidad": 34
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Alcremie",
+			"hp": 65,
+			"ataque": 60,
+			"defensa": 75,
+			"velocidad": 64
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Falinks",
+			"hp": 65,
+			"ataque": 100,
+			"defensa": 100,
+			"velocidad": 75
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Pincurchin",
+			"hp": 48,
+			"ataque": 101,
+			"defensa": 95,
+			"velocidad": 15
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Snom",
+			"hp": 30,
+			"ataque": 25,
+			"defensa": 35,
+			"velocidad": 20
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Frosmoth",
+			"hp": 70,
+			"ataque": 65,
+			"defensa": 60,
+			"velocidad": 65
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Stonjourner",
+			"hp": 100,
+			"ataque": 125,
+			"defensa": 135,
+			"velocidad": 70
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Eiscue",
+			"hp": 75,
+			"ataque": 80,
+			"defensa": 110,
+			"velocidad": 50
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Eiscue",
+			"hp": 75,
+			"ataque": 80,
+			"defensa": 70,
+			"velocidad": 130
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Indeedee",
+			"hp": 60,
+			"ataque": 65,
+			"defensa": 55,
+			"velocidad": 95
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Indeedee",
+			"hp": 70,
+			"ataque": 55,
+			"defensa": 65,
+			"velocidad": 85
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Morpeko",
+			"hp": 58,
+			"ataque": 95,
+			"defensa": 58,
+			"velocidad": 97
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Morpeko",
+			"hp": 58,
+			"ataque": 95,
+			"defensa": 58,
+			"velocidad": 97
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Cufant",
+			"hp": 72,
+			"ataque": 80,
+			"defensa": 49,
+			"velocidad": 40
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Copperajah",
+			"hp": 122,
+			"ataque": 130,
+			"defensa": 69,
+			"velocidad": 30
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Dracozolt",
+			"hp": 90,
+			"ataque": 100,
+			"defensa": 90,
+			"velocidad": 75
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Arctozolt",
+			"hp": 90,
+			"ataque": 100,
+			"defensa": 90,
+			"velocidad": 55
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Dracovish",
+			"hp": 90,
+			"ataque": 90,
+			"defensa": 100,
+			"velocidad": 75
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Arctovish",
+			"hp": 90,
+			"ataque": 90,
+			"defensa": 100,
+			"velocidad": 55
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Duraludon",
+			"hp": 70,
+			"ataque": 95,
+			"defensa": 115,
+			"velocidad": 85
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Dreepy",
+			"hp": 28,
+			"ataque": 60,
+			"defensa": 30,
+			"velocidad": 82
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Drakloak",
+			"hp": 68,
+			"ataque": 80,
+			"defensa": 50,
+			"velocidad": 102
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Dragapult",
+			"hp": 88,
+			"ataque": 120,
+			"defensa": 75,
+			"velocidad": 142
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Zacian",
+			"hp": 92,
+			"ataque": 170,
+			"defensa": 115,
+			"velocidad": 148
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Zacian",
+			"hp": 92,
+			"ataque": 130,
+			"defensa": 115,
+			"velocidad": 138
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Zamazenta",
+			"hp": 92,
+			"ataque": 130,
+			"defensa": 145,
+			"velocidad": 128
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Zamazenta",
+			"hp": 92,
+			"ataque": 130,
+			"defensa": 115,
+			"velocidad": 138
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Eternatus",
+			"hp": 140,
+			"ataque": 85,
+			"defensa": 95,
+			"velocidad": 130
+		},
+		{
+			"img": "https://img.pokemondb.net/s.png",
+			"nombre": "Eternatus",
+			"hp": 255,
+			"ataque": 115,
+			"defensa": 250,
+			"velocidad": 130
+		}
+	]
+}
