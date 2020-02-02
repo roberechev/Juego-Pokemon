@@ -44,10 +44,6 @@ public class Scraping {
 
 			}
 
-			for (Pokemon p : listadoPokemon) {
-				System.out.println(p.toString());
-			}
-
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();

@@ -12,7 +12,7 @@
 	<%
 		ArrayList<Pokemon> arrayListPokemons = (ArrayList<Pokemon>) request.getAttribute("pokemones");
 
-		String table = "<!Doctype Html><html><head><meta charset=\'UTF-8\'></head><body><table border=1>";
+		String table = "<table border=1>";
 		int i = 1;
 		for (Pokemon p : arrayListPokemons) {
 			String imagenP = p.getImg();
@@ -21,8 +21,8 @@
 			if (i == 1) {
 				table += "<tr>";
 			}
-			table += "<td><a href=\"MiServlet?accion=combate " + hp + " " + imagenP + "\">"
-					+ "<img width=\"60px\" src=\"" + imagenP + "\"/>" + "\n " + nombre + "</a></td>";
+			table += "<td><a href=\"MiServlet?accion=combate " + nombre + "\">" + "<img width=\"60px\" src=\""
+					+ imagenP + "\"/>" + "\n " + nombre + "</a></td>";
 			if (i == 6) {
 				table += "</tr>";
 				i = 0;
@@ -30,7 +30,7 @@
 			i++;
 
 		}
-		table += "</table></body>";
+		table += "</table>";
 		out.print(table);
 	%>
 </body>

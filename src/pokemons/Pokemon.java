@@ -11,6 +11,7 @@ public class Pokemon {
 	private int ataqueEspecial;
 	private int defensaEspecial;
 	private int velocidad;
+	private int hpMAX;
 
 	public Pokemon(String img, String nombre, int numero, int hp, int ataque, int defensa, int ataqueEspecial,
 			int defensaEspecial, int velocidad) {
@@ -24,6 +25,11 @@ public class Pokemon {
 		this.ataqueEspecial = ataqueEspecial;
 		this.defensaEspecial = defensaEspecial;
 		this.velocidad = velocidad;
+		hpMAX = hp;
+	}
+
+	public int getHpMAX() {
+		return hpMAX;
 	}
 
 	public String getImg() {
