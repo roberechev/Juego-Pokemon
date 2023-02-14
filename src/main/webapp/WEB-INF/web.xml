@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jakarta.ee/xml/ns/jakartaee" xmlns:web="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_5_0.xsd" version="5.0">
+  <servlet>
+    <description></description>
+    <display-name>primerServlet</display-name>
+    <servlet-name>primerServlet</servlet-name>
+    <servlet-class>es.roberechev.serverPrueba.primerServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>primerServlet</servlet-name>
+    <url-pattern>/primerServlet</url-pattern>
+  </servlet-mapping>
+  <display-name>JuegoPokemon_actualizado</display-name>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+    <welcome-file>index.htm</welcome-file>
+    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>default.html</welcome-file>
+    <welcome-file>default.htm</welcome-file>
+    <welcome-file>default.jsp</welcome-file>
+  </welcome-file-list>
+  <servlet>
+    <description></description>
+    <display-name>miServletP</display-name>
+    <servlet-name>miServletP</servlet-name>
+    <servlet-class>es.roberechev.serverPrueba.miServletP</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>miServletP</servlet-name>
+    <url-pattern>/miServletP</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>MiServlet</display-name>
+    <servlet-name>MiServlet</servlet-name>
+    <servlet-class>es.roberechev.serverPrueba.MiServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>MiServlet</servlet-name>
+    <url-pattern>/MiServlet</url-pattern>
+  </servlet-mapping>
+</web-app>
