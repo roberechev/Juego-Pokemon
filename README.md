@@ -1,3 +1,5 @@
+<img src="https://github.com/roberechev/Juego-Pokemon/blob/master/img/pokemon.png" alt="mypy logo" width="100px"/>
+
 # Juego-Pokemon
 JSP, JSOUP, Servlet
 
